@@ -1,0 +1,1700 @@
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_100_0.wav|Well anyhow it didn't rain, he said.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_100_1.wav|Well anyhow it didn't rain, he said.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_100_2.wav|Well anyhow it didn't rain, he said.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_100_3.wav|Well anyhow it didn't rain, he said.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_100_4.wav|Well anyhow it didn't rain, he said.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_101_0.wav|It's me piglit, help help!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_101_1.wav|It's me piglit, help help!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_101_2.wav|It's me piglit, help help!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_101_3.wav|It's me piglit, help help!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_101_4.wav|It's me piglit, help help!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_102_0.wav|This is Jack, the relatives of Tom.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_102_1.wav|This is Jack, the relatives of Tom.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_102_2.wav|This is Jack, the relatives of Tom.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_102_3.wav|This is Jack, the relatives of Tom.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_102_4.wav|This is Jack, the relatives of Tom.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_103_0.wav|The elephant and the carpenter is the longest.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_103_1.wav|The elephant and the carpenter is the longest.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_103_2.wav|The elephant and the carpenter is the longest.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_103_3.wav|The elephant and the carpenter is the longest.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_103_4.wav|The elephant and the carpenter is the longest.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_104_0.wav|Here i am whom you seek.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_104_1.wav|Here i am whom you seek.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_104_2.wav|Here i am whom you seek.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_104_3.wav|Here i am whom you seek.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_104_4.wav|Here i am whom you seek.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_105_0.wav|He was killed by an arrow.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_105_1.wav|He was killed by an arrow.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_105_2.wav|He was killed by an arrow.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_105_3.wav|He was killed by an arrow.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_105_4.wav|He was killed by an arrow.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_106_0.wav|I guess it's a choice feast.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_106_1.wav|I guess it's a choice feast.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_106_2.wav|I guess it's a choice feast.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_106_3.wav|I guess it's a choice feast.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_106_4.wav|I guess it's a choice feast.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_107_0.wav|Tom and Michael woke up next morning.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_107_1.wav|Tom and Michael woke up next morning.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_107_2.wav|Tom and Michael woke up next morning.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_107_3.wav|Tom and Michael woke up next morning.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_107_4.wav|Tom and Michael woke up next morning.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_108_0.wav|The squire himself showed perfect.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_108_1.wav|The squire himself showed perfect.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_108_2.wav|The squire himself showed perfect.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_108_3.wav|The squire himself showed perfect.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_108_4.wav|The squire himself showed perfect.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_109_0.wav|If they mother knew it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_109_1.wav|If they mother knew it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_109_2.wav|If they mother knew it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_109_3.wav|If they mother knew it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_109_4.wav|If they mother knew it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_10_0.wav|A nauseous draught.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_10_1.wav|A nauseous draught.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_10_2.wav|A nauseous draught.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_10_3.wav|A nauseous draught.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_10_4.wav|A nauseous draught.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_110_0.wav|Act drop second act scene.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_110_1.wav|Act drop second act scene.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_110_2.wav|Act drop second act scene.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_110_3.wav|Act drop second act scene.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_110_4.wav|Act drop second act scene.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_111_0.wav|We nightly dance our heyday guise.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_111_1.wav|We nightly dance our heyday guise.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_111_2.wav|We nightly dance our heyday guise.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_111_3.wav|We nightly dance our heyday guise.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_111_4.wav|We nightly dance our heyday guise.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_112_0.wav|Clown, to call him joey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_112_1.wav|Clown, to call him joey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_112_2.wav|Clown, to call him joey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_112_3.wav|Clown, to call him joey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_112_4.wav|Clown, to call him joey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_113_0.wav|Mister lawson saw george last night.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_113_1.wav|Mister lawson saw george last night.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_113_2.wav|Mister lawson saw george last night.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_113_3.wav|Mister lawson saw george last night.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_113_4.wav|Mister lawson saw george last night.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_114_0.wav|A half pounds of flour and two ounces suet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_114_1.wav|A half pounds of flour and two ounces suet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_114_2.wav|A half pounds of flour and two ounces suet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_114_3.wav|A half pounds of flour and two ounces suet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_114_4.wav|A half pounds of flour and two ounces suet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_115_0.wav|He might call it, for example.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_115_1.wav|He might call it, for example.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_115_2.wav|He might call it, for example.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_115_3.wav|He might call it, for example.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_115_4.wav|He might call it, for example.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_116_0.wav|No, I burst the balloon!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_116_1.wav|No, I burst the balloon!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_116_2.wav|No, I burst the balloon!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_116_3.wav|No, I burst the balloon!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_116_4.wav|No, I burst the balloon!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_117_0.wav|They were children of mine.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_117_1.wav|They were children of mine.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_117_2.wav|They were children of mine.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_117_3.wav|They were children of mine.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_117_4.wav|They were children of mine.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_118_0.wav|Look out! said Alice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_118_1.wav|Look out! said Alice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_118_2.wav|Look out! said Alice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_118_3.wav|Look out! said Alice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_118_4.wav|Look out! said Alice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_119_0.wav|The owl flew into a bush.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_119_1.wav|The owl flew into a bush.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_119_2.wav|The owl flew into a bush.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_119_3.wav|The owl flew into a bush.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_119_4.wav|The owl flew into a bush.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_11_0.wav|Chapter ten a warm welcome.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_11_1.wav|Chapter ten a warm welcome.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_11_2.wav|Chapter ten a warm welcome.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_11_3.wav|Chapter ten a warm welcome.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_11_4.wav|Chapter ten a warm welcome.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_120_0.wav|Our King George is labourers.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_120_1.wav|Our King George is labourers.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_120_2.wav|Our King George is labourers.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_120_3.wav|Our King George is labourers.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_120_4.wav|Our King George is labourers.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_121_0.wav|Finn and the fairy shoemaker.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_121_1.wav|Finn and the fairy shoemaker.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_121_2.wav|Finn and the fairy shoemaker.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_121_3.wav|Finn and the fairy shoemaker.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_121_4.wav|Finn and the fairy shoemaker.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_122_0.wav|Am I an absolute pauper?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_122_1.wav|Am I an absolute pauper?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_122_2.wav|Am I an absolute pauper?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_122_3.wav|Am I an absolute pauper?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_122_4.wav|Am I an absolute pauper?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_123_0.wav|I am from towel land.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_123_1.wav|I am from towel land.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_123_2.wav|I am from towel land.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_123_3.wav|I am from towel land.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_123_4.wav|I am from towel land.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_124_0.wav|You know, answers to the name of Tom's son.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_124_1.wav|You know, answers to the name of Tom's son.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_124_2.wav|You know, answers to the name of Tom's son.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_124_3.wav|You know, answers to the name of Tom's son.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_124_4.wav|You know, answers to the name of Tom's son.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_125_0.wav|To catch that bulrush root with my paw!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_125_1.wav|To catch that bulrush root with my paw!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_125_2.wav|To catch that bulrush root with my paw!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_125_3.wav|To catch that bulrush root with my paw!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_125_4.wav|To catch that bulrush root with my paw!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_126_0.wav|will this turn goes to the hill.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_126_1.wav|will this turn goes to the hill.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_126_2.wav|will this turn goes to the hill.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_126_3.wav|will this turn goes to the hill.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_126_4.wav|will this turn goes to the hill.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_127_0.wav|Cos I know I had some honey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_127_1.wav|Cos I know I had some honey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_127_2.wav|Cos I know I had some honey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_127_3.wav|Cos I know I had some honey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_127_4.wav|Cos I know I had some honey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_128_0.wav|Put that rude grasshopper in jail!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_128_1.wav|Put that rude grasshopper in jail!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_128_2.wav|Put that rude grasshopper in jail!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_128_3.wav|Put that rude grasshopper in jail!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_128_4.wav|Put that rude grasshopper in jail!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_129_0.wav|A large flat ferry boat was moored beside it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_129_1.wav|A large flat ferry boat was moored beside it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_129_2.wav|A large flat ferry boat was moored beside it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_129_3.wav|A large flat ferry boat was moored beside it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_129_4.wav|A large flat ferry boat was moored beside it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_12_0.wav|Her shoes were like fishes.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_12_1.wav|Her shoes were like fishes.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_12_2.wav|Her shoes were like fishes.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_12_3.wav|Her shoes were like fishes.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_12_4.wav|Her shoes were like fishes.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_130_0.wav|And would spoil my joke.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_130_1.wav|And would spoil my joke.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_130_2.wav|And would spoil my joke.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_130_3.wav|And would spoil my joke.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_130_4.wav|And would spoil my joke.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_131_0.wav|It must come sometimes to jam a day.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_131_1.wav|It must come sometimes to jam a day.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_131_2.wav|It must come sometimes to jam a day.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_131_3.wav|It must come sometimes to jam a day.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_131_4.wav|It must come sometimes to jam a day.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_132_0.wav|my god I thank you for this mercy!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_132_1.wav|my god I thank you for this mercy!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_132_2.wav|my god I thank you for this mercy!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_132_3.wav|my god I thank you for this mercy!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_132_4.wav|my god I thank you for this mercy!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_133_0.wav|I can smell the breath of an English.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_133_1.wav|I can smell the breath of an English.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_133_2.wav|I can smell the breath of an English.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_133_3.wav|I can smell the breath of an English.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_133_4.wav|I can smell the breath of an English.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_134_0.wav|Rare rabbit had a little apron.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_134_1.wav|Rare rabbit had a little apron.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_134_2.wav|Rare rabbit had a little apron.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_134_3.wav|Rare rabbit had a little apron.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_134_4.wav|Rare rabbit had a little apron.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_135_0.wav|I blinked my eyes hard.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_135_1.wav|I blinked my eyes hard.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_135_2.wav|I blinked my eyes hard.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_135_3.wav|I blinked my eyes hard.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_135_4.wav|I blinked my eyes hard.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_136_0.wav|She has eaten the tapioca all-of it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_136_1.wav|She has eaten the tapioca all-of it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_136_2.wav|She has eaten the tapioca all-of it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_136_3.wav|She has eaten the tapioca all-of it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_136_4.wav|She has eaten the tapioca all-of it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_137_0.wav|Let this glass globe be.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_137_1.wav|Let this glass globe be.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_137_2.wav|Let this glass globe be.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_137_3.wav|Let this glass globe be.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_137_4.wav|Let this glass globe be.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_138_0.wav|But one requires the explorer to furnish proofs.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_138_1.wav|But one requires the explorer to furnish proofs.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_138_2.wav|But one requires the explorer to furnish proofs.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_138_3.wav|But one requires the explorer to furnish proofs.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_138_4.wav|But one requires the explorer to furnish proofs.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_139_0.wav|Cuckoos is downheaded and cry.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_139_1.wav|Cuckoos is downheaded and cry.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_139_2.wav|Cuckoos is downheaded and cry.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_139_3.wav|Cuckoos is downheaded and cry.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_139_4.wav|Cuckoos is downheaded and cry.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_13_0.wav|I have bunburyed all over goat on two separate occasions.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_13_1.wav|I have bunburyed all over goat on two separate occasions.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_13_2.wav|I have bunburyed all over goat on two separate occasions.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_13_3.wav|I have bunburyed all over goat on two separate occasions.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_13_4.wav|I have bunburyed all over goat on two separate occasions.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_140_0.wav|What an impetuous boy he is!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_140_1.wav|What an impetuous boy he is!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_140_2.wav|What an impetuous boy he is!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_140_3.wav|What an impetuous boy he is!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_140_4.wav|What an impetuous boy he is!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_141_0.wav|Can I lodge here tonight?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_141_1.wav|Can I lodge here tonight?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_141_2.wav|Can I lodge here tonight?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_141_3.wav|Can I lodge here tonight?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_141_4.wav|Can I lodge here tonight?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_142_0.wav|Wake now my merry tads!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_142_1.wav|Wake now my merry tads!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_142_2.wav|Wake now my merry tads!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_142_3.wav|Wake now my merry tads!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_142_4.wav|Wake now my merry tads!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_143_0.wav|Pussy can sit by the fire and sing.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_143_1.wav|Pussy can sit by the fire and sing.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_143_2.wav|Pussy can sit by the fire and sing.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_143_3.wav|Pussy can sit by the fire and sing.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_143_4.wav|Pussy can sit by the fire and sing.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_144_0.wav|We all see panda on TV or in the zoo.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_144_1.wav|We all see panda on TV or in the zoo.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_144_2.wav|We all see panda on TV or in the zoo.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_144_3.wav|We all see panda on TV or in the zoo.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_144_4.wav|We all see panda on TV or in the zoo.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_145_0.wav|Reed by the living pool!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_145_1.wav|Reed by the living pool!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_145_2.wav|Reed by the living pool!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_145_3.wav|Reed by the living pool!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_145_4.wav|Reed by the living pool!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_146_0.wav|He said to Jack, the chatterer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_146_1.wav|He said to Jack, the chatterer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_146_2.wav|He said to Jack, the chatterer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_146_3.wav|He said to Jack, the chatterer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_146_4.wav|He said to Jack, the chatterer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_147_0.wav|And there you'll find a snap dragon fly.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_147_1.wav|And there you'll find a snap dragon fly.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_147_2.wav|And there you'll find a snap dragon fly.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_147_3.wav|And there you'll find a snap dragon fly.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_147_4.wav|And there you'll find a snap dragon fly.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_148_0.wav|And on the top of them, came Winnie, the cute bear.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_148_1.wav|And on the top of them, came Winnie, the cute bear.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_148_2.wav|And on the top of them, came Winnie, the cute bear.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_148_3.wav|And on the top of them, came Winnie, the cute bear.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_148_4.wav|And on the top of them, came Winnie, the cute bear.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_149_0.wav|My winding sheet!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_149_1.wav|My winding sheet!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_149_2.wav|My winding sheet!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_149_3.wav|My winding sheet!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_149_4.wav|My winding sheet!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_14_0.wav|Annie please please don't hurt me!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_14_1.wav|Annie please please don't hurt me!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_14_2.wav|Annie please please don't hurt me!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_14_3.wav|Annie please please don't hurt me!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_14_4.wav|Annie please please don't hurt me!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_150_0.wav|I hope you enjoyed yourself?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_150_1.wav|I hope you enjoyed yourself?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_150_2.wav|I hope you enjoyed yourself?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_150_3.wav|I hope you enjoyed yourself?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_150_4.wav|I hope you enjoyed yourself?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_151_0.wav|All the way to China is home.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_151_1.wav|All the way to China is home.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_151_2.wav|All the way to China is home.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_151_3.wav|All the way to China is home.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_151_4.wav|All the way to China is home.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_152_0.wav|Guilty for what do you rule?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_152_1.wav|Guilty for what do you rule?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_152_2.wav|Guilty for what do you rule?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_152_3.wav|Guilty for what do you rule?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_152_4.wav|Guilty for what do you rule?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_153_0.wav|But we are not high yet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_153_1.wav|But we are not high yet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_153_2.wav|But we are not high yet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_153_3.wav|But we are not high yet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_153_4.wav|But we are not high yet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_154_0.wav|He dreamt them all night.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_154_1.wav|He dreamt them all night.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_154_2.wav|He dreamt them all night.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_154_3.wav|He dreamt them all night.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_154_4.wav|He dreamt them all night.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_155_0.wav|This speech roused dame ilse to anger.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_155_1.wav|This speech roused dame ilse to anger.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_155_2.wav|This speech roused dame ilse to anger.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_155_3.wav|This speech roused dame ilse to anger.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_155_4.wav|This speech roused dame ilse to anger.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_156_0.wav|The eye could not catch them.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_156_1.wav|The eye could not catch them.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_156_2.wav|The eye could not catch them.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_156_3.wav|The eye could not catch them.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_156_4.wav|The eye could not catch them.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_157_0.wav|Blackbird, and Jay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_157_1.wav|Blackbird, and Jay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_157_2.wav|Blackbird, and Jay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_157_3.wav|Blackbird, and Jay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_157_4.wav|Blackbird, and Jay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_158_0.wav|it looks much better.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_158_1.wav|it looks much better.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_158_2.wav|it looks much better.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_158_3.wav|it looks much better.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_158_4.wav|it looks much better.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_159_0.wav|Such tunes are joy to dancing fay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_159_1.wav|Such tunes are joy to dancing fay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_159_2.wav|Such tunes are joy to dancing fay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_159_3.wav|Such tunes are joy to dancing fay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_159_4.wav|Such tunes are joy to dancing fay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_15_0.wav|Poor Tom now is dead!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_15_1.wav|Poor Tom now is dead!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_15_2.wav|Poor Tom now is dead!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_15_3.wav|Poor Tom now is dead!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_15_4.wav|Poor Tom now is dead!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_160_0.wav|Kitty, can you play chess?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_160_1.wav|Kitty, can you play chess?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_160_2.wav|Kitty, can you play chess?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_160_3.wav|Kitty, can you play chess?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_160_4.wav|Kitty, can you play chess?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_161_0.wav|That's a full grown colt.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_161_1.wav|That's a full grown colt.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_161_2.wav|That's a full grown colt.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_161_3.wav|That's a full grown colt.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_161_4.wav|That's a full grown colt.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_162_0.wav|I lent george three pounds.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_162_1.wav|I lent george three pounds.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_162_2.wav|I lent george three pounds.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_162_3.wav|I lent george three pounds.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_162_4.wav|I lent george three pounds.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_163_0.wav|How they went to the mountains to eat nuts.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_163_1.wav|How they went to the mountains to eat nuts.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_163_2.wav|How they went to the mountains to eat nuts.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_163_3.wav|How they went to the mountains to eat nuts.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_163_4.wav|How they went to the mountains to eat nuts.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_164_0.wav|His large mouth curled into a sneer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_164_1.wav|His large mouth curled into a sneer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_164_2.wav|His large mouth curled into a sneer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_164_3.wav|His large mouth curled into a sneer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_164_4.wav|His large mouth curled into a sneer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_165_0.wav|They were going fast, with a light clip.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_165_1.wav|They were going fast, with a light clip.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_165_2.wav|They were going fast, with a light clip.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_165_3.wav|They were going fast, with a light clip.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_165_4.wav|They were going fast, with a light clip.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_166_0.wav|They ate beef at the butcher shop.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_166_1.wav|They ate beef at the butcher shop.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_166_2.wav|They ate beef at the butcher shop.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_166_3.wav|They ate beef at the butcher shop.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_166_4.wav|They ate beef at the butcher shop.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_167_0.wav|I toy with my liqueur.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_167_1.wav|I toy with my liqueur.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_167_2.wav|I toy with my liqueur.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_167_3.wav|I toy with my liqueur.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_167_4.wav|I toy with my liqueur.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_168_0.wav|I said you looked like an egg, sir.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_168_1.wav|I said you looked like an egg, sir.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_168_2.wav|I said you looked like an egg, sir.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_168_3.wav|I said you looked like an egg, sir.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_168_4.wav|I said you looked like an egg, sir.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_169_0.wav|Sam waved his arm vaguely.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_169_1.wav|Sam waved his arm vaguely.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_169_2.wav|Sam waved his arm vaguely.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_169_3.wav|Sam waved his arm vaguely.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_169_4.wav|Sam waved his arm vaguely.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_16_0.wav|Mister share man, I move for a division.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_16_1.wav|Mister share man, I move for a division.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_16_2.wav|Mister share man, I move for a division.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_16_3.wav|Mister share man, I move for a division.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_16_4.wav|Mister share man, I move for a division.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_170_0.wav|But if you hadn't done them.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_170_1.wav|But if you hadn't done them.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_170_2.wav|But if you hadn't done them.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_170_3.wav|But if you hadn't done them.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_170_4.wav|But if you hadn't done them.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_171_0.wav|I say neither yea nor nay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_171_1.wav|I say neither yea nor nay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_171_2.wav|I say neither yea nor nay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_171_3.wav|I say neither yea nor nay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_171_4.wav|I say neither yea nor nay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_172_0.wav|I shall say good bye.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_172_1.wav|I shall say good bye.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_172_2.wav|I shall say good bye.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_172_3.wav|I shall say good bye.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_172_4.wav|I shall say good bye.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_173_0.wav|He searched through the box.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_173_1.wav|He searched through the box.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_173_2.wav|He searched through the box.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_173_3.wav|He searched through the box.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_173_4.wav|He searched through the box.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_174_0.wav|I pay half a crown a week extra.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_174_1.wav|I pay half a crown a week extra.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_174_2.wav|I pay half a crown a week extra.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_174_3.wav|I pay half a crown a week extra.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_174_4.wav|I pay half a crown a week extra.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_175_0.wav|All this we have won by our labour.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_175_1.wav|All this we have won by our labour.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_175_2.wav|All this we have won by our labour.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_175_3.wav|All this we have won by our labour.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_175_4.wav|All this we have won by our labour.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_176_0.wav|She just smiled calmly, mother knows that is the best smile.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_176_1.wav|She just smiled calmly, mother knows that is the best smile.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_176_2.wav|She just smiled calmly, mother knows that is the best smile.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_176_3.wav|She just smiled calmly, mother knows that is the best smile.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_176_4.wav|She just smiled calmly, mother knows that is the best smile.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_177_0.wav|Tom fell with a cloven head.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_177_1.wav|Tom fell with a cloven head.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_177_2.wav|Tom fell with a cloven head.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_177_3.wav|Tom fell with a cloven head.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_177_4.wav|Tom fell with a cloven head.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_178_0.wav|And vowed he'd change the pigtail's place.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_178_1.wav|And vowed he'd change the pigtail's place.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_178_2.wav|And vowed he'd change the pigtail's place.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_178_3.wav|And vowed he'd change the pigtail's place.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_178_4.wav|And vowed he'd change the pigtail's place.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_179_0.wav|Daisy creams with pink edges.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_179_1.wav|Daisy creams with pink edges.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_179_2.wav|Daisy creams with pink edges.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_179_3.wav|Daisy creams with pink edges.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_179_4.wav|Daisy creams with pink edges.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_17_0.wav|Why has this egg not broken?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_17_1.wav|Why has this egg not broken?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_17_2.wav|Why has this egg not broken?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_17_3.wav|Why has this egg not broken?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_17_4.wav|Why has this egg not broken?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_180_0.wav|Toast from the bread fruit tree.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_180_1.wav|Toast from the bread fruit tree.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_180_2.wav|Toast from the bread fruit tree.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_180_3.wav|Toast from the bread fruit tree.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_180_4.wav|Toast from the bread fruit tree.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_181_0.wav|First, issue a reward.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_181_1.wav|First, issue a reward.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_181_2.wav|First, issue a reward.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_181_3.wav|First, issue a reward.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_181_4.wav|First, issue a reward.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_182_0.wav|Age forty five if a day a lie.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_182_1.wav|Age forty five if a day a lie.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_182_2.wav|Age forty five if a day a lie.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_182_3.wav|Age forty five if a day a lie.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_182_4.wav|Age forty five if a day a lie.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_183_0.wav|Fresh pain seized Paul's body.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_183_1.wav|Fresh pain seized Paul's body.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_183_2.wav|Fresh pain seized Paul's body.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_183_3.wav|Fresh pain seized Paul's body.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_183_4.wav|Fresh pain seized Paul's body.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_184_0.wav|We have been fine, haven't we?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_184_1.wav|We have been fine, haven't we?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_184_2.wav|We have been fine, haven't we?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_184_3.wav|We have been fine, haven't we?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_184_4.wav|We have been fine, haven't we?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_185_0.wav|The new born baby is stolen as we go.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_185_1.wav|The new born baby is stolen as we go.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_185_2.wav|The new born baby is stolen as we go.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_185_3.wav|The new born baby is stolen as we go.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_185_4.wav|The new born baby is stolen as we go.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_186_0.wav|She jump at the tail and bite it savagely.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_186_1.wav|She jump at the tail and bite it savagely.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_186_2.wav|She jump at the tail and bite it savagely.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_186_3.wav|She jump at the tail and bite it savagely.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_186_4.wav|She jump at the tail and bite it savagely.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_187_0.wav|An hour out of Guildford town.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_187_1.wav|An hour out of Guildford town.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_187_2.wav|An hour out of Guildford town.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_187_3.wav|An hour out of Guildford town.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_187_4.wav|An hour out of Guildford town.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_188_0.wav|Now quicker the fiddle went.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_188_1.wav|Now quicker the fiddle went.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_188_2.wav|Now quicker the fiddle went.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_188_3.wav|Now quicker the fiddle went.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_188_4.wav|Now quicker the fiddle went.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_189_0.wav|When such wanderers meet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_189_1.wav|When such wanderers meet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_189_2.wav|When such wanderers meet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_189_3.wav|When such wanderers meet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_189_4.wav|When such wanderers meet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_18_0.wav|Then sadly it is much farther.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_18_1.wav|Then sadly it is much farther.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_18_2.wav|Then sadly it is much farther.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_18_3.wav|Then sadly it is much farther.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_18_4.wav|Then sadly it is much farther.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_190_0.wav|And they were sandy yellow brownish all over.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_190_1.wav|And they were sandy yellow brownish all over.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_190_2.wav|And they were sandy yellow brownish all over.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_190_3.wav|And they were sandy yellow brownish all over.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_190_4.wav|And they were sandy yellow brownish all over.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_191_0.wav|I make her quite nervy at times.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_191_1.wav|I make her quite nervy at times.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_191_2.wav|I make her quite nervy at times.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_191_3.wav|I make her quite nervy at times.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_191_4.wav|I make her quite nervy at times.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_192_0.wav|I have had to grow old.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_192_1.wav|I have had to grow old.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_192_2.wav|I have had to grow old.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_192_3.wav|I have had to grow old.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_192_4.wav|I have had to grow old.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_193_0.wav|Please hire me after you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_193_1.wav|Please hire me after you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_193_2.wav|Please hire me after you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_193_3.wav|Please hire me after you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_193_4.wav|Please hire me after you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_194_0.wav|Yes, I miss her.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_194_1.wav|Yes, I miss her.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_194_2.wav|Yes, I miss her.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_194_3.wav|Yes, I miss her.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_194_4.wav|Yes, I miss her.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_195_0.wav|A boat put out on the bay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_195_1.wav|A boat put out on the bay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_195_2.wav|A boat put out on the bay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_195_3.wav|A boat put out on the bay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_195_4.wav|A boat put out on the bay.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_196_0.wav|Clear are your eyes and bright your breath!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_196_1.wav|Clear are your eyes and bright your breath!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_196_2.wav|Clear are your eyes and bright your breath!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_196_3.wav|Clear are your eyes and bright your breath!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_196_4.wav|Clear are your eyes and bright your breath!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_197_0.wav|Fur flew through the air, teeth gnashed.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_197_1.wav|Fur flew through the air, teeth gnashed.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_197_2.wav|Fur flew through the air, teeth gnashed.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_197_3.wav|Fur flew through the air, teeth gnashed.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_197_4.wav|Fur flew through the air, teeth gnashed.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_198_0.wav|I'd shoot myself. 
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_198_1.wav|I'd shoot myself. 
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_198_2.wav|I'd shoot myself. 
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_198_3.wav|I'd shoot myself. 
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_198_4.wav|I'd shoot myself. 
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_199_0.wav|Captain Tom receives an angry letter.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_199_1.wav|Captain Tom receives an angry letter.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_199_2.wav|Captain Tom receives an angry letter.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_199_3.wav|Captain Tom receives an angry letter.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_199_4.wav|Captain Tom receives an angry letter.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_19_0.wav|At the end of four.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_19_1.wav|At the end of four.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_19_2.wav|At the end of four.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_19_3.wav|At the end of four.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_19_4.wav|At the end of four.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_1_0.wav|The nine the eggs, I keep.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_1_1.wav|The nine the eggs, I keep.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_1_2.wav|The nine the eggs, I keep.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_1_3.wav|The nine the eggs, I keep.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_1_4.wav|The nine the eggs, I keep.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_200_0.wav|That cloth does not look worth much!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_200_1.wav|That cloth does not look worth much!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_200_2.wav|That cloth does not look worth much!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_200_3.wav|That cloth does not look worth much!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_200_4.wav|That cloth does not look worth much!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_201_0.wav|A lady, is on Alice's lap!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_201_1.wav|A lady, is on Alice's lap!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_201_2.wav|A lady, is on Alice's lap!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_201_3.wav|A lady, is on Alice's lap!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_201_4.wav|A lady, is on Alice's lap!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_202_0.wav|yeah that sounds good.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_202_1.wav|yeah that sounds good.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_202_2.wav|yeah that sounds good.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_202_3.wav|yeah that sounds good.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_202_4.wav|yeah that sounds good.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_203_0.wav|I was not grabbed.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_203_1.wav|I was not grabbed.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_203_2.wav|I was not grabbed.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_203_3.wav|I was not grabbed.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_203_4.wav|I was not grabbed.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_204_0.wav|The song is really louding on a gate.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_204_1.wav|The song is really louding on a gate.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_204_2.wav|The song is really louding on a gate.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_204_3.wav|The song is really louding on a gate.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_204_4.wav|The song is really louding on a gate.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_205_0.wav|Fear neither root nor sprout!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_205_1.wav|Fear neither root nor sprout!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_205_2.wav|Fear neither root nor sprout!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_205_3.wav|Fear neither root nor sprout!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_205_4.wav|Fear neither root nor sprout!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_206_0.wav|Still you owe it a duty.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_206_1.wav|Still you owe it a duty.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_206_2.wav|Still you owe it a duty.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_206_3.wav|Still you owe it a duty.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_206_4.wav|Still you owe it a duty.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_207_0.wav|What am I, I'm a racer, son of god.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_207_1.wav|What am I, I'm a racer, son of god.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_207_2.wav|What am I, I'm a racer, son of god.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_207_3.wav|What am I, I'm a racer, son of god.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_207_4.wav|What am I, I'm a racer, son of god.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_208_0.wav|However, somebody killed something.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_208_1.wav|However, somebody killed something.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_208_2.wav|However, somebody killed something.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_208_3.wav|However, somebody killed something.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_208_4.wav|However, somebody killed something.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_209_0.wav|A raging fire was in his eyes.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_209_1.wav|A raging fire was in his eyes.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_209_2.wav|A raging fire was in his eyes.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_209_3.wav|A raging fire was in his eyes.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_209_4.wav|A raging fire was in his eyes.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_20_0.wav|At the roots of a bush of a grass.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_20_1.wav|At the roots of a bush of a grass.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_20_2.wav|At the roots of a bush of a grass.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_20_3.wav|At the roots of a bush of a grass.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_20_4.wav|At the roots of a bush of a grass.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_210_0.wav|It weighs seven point five kilogram.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_210_1.wav|It weighs seven point five kilogram.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_210_2.wav|It weighs seven point five kilogram.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_210_3.wav|It weighs seven point five kilogram.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_210_4.wav|It weighs seven point five kilogram.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_211_0.wav|From each cake, there sprang a huge dog.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_211_1.wav|From each cake, there sprang a huge dog.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_211_2.wav|From each cake, there sprang a huge dog.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_211_3.wav|From each cake, there sprang a huge dog.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_211_4.wav|From each cake, there sprang a huge dog.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_212_0.wav|No thank you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_212_1.wav|No thank you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_212_2.wav|No thank you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_212_3.wav|No thank you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_212_4.wav|No thank you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_213_0.wav|Let it give us a chance, my precious.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_213_1.wav|Let it give us a chance, my precious.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_213_2.wav|Let it give us a chance, my precious.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_213_3.wav|Let it give us a chance, my precious.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_213_4.wav|Let it give us a chance, my precious.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_214_0.wav|But what about this thing, sticky!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_214_1.wav|But what about this thing, sticky!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_214_2.wav|But what about this thing, sticky!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_214_3.wav|But what about this thing, sticky!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_214_4.wav|But what about this thing, sticky!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_215_0.wav|He likes dragons very much.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_215_1.wav|He likes dragons very much.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_215_2.wav|He likes dragons very much.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_215_3.wav|He likes dragons very much.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_215_4.wav|He likes dragons very much.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_216_0.wav|well it isn't picked at all.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_216_1.wav|well it isn't picked at all.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_216_2.wav|well it isn't picked at all.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_216_3.wav|well it isn't picked at all.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_216_4.wav|well it isn't picked at all.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_217_0.wav|You cruelty shall cost your life !
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_217_1.wav|You cruelty shall cost your life !
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_217_2.wav|You cruelty shall cost your life !
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_217_3.wav|You cruelty shall cost your life !
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_217_4.wav|You cruelty shall cost your life !
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_218_0.wav|I'll send for Tom to my boudoir.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_218_1.wav|I'll send for Tom to my boudoir.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_218_2.wav|I'll send for Tom to my boudoir.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_218_3.wav|I'll send for Tom to my boudoir.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_218_4.wav|I'll send for Tom to my boudoir.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_219_0.wav|But the tune isn't his own invention.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_219_1.wav|But the tune isn't his own invention.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_219_2.wav|But the tune isn't his own invention.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_219_3.wav|But the tune isn't his own invention.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_219_4.wav|But the tune isn't his own invention.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_21_0.wav|As rich as Peter's son in law!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_21_1.wav|As rich as Peter's son in law!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_21_2.wav|As rich as Peter's son in law!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_21_3.wav|As rich as Peter's son in law!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_21_4.wav|As rich as Peter's son in law!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_220_0.wav|Her paw went into your eye?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_220_1.wav|Her paw went into your eye?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_220_2.wav|Her paw went into your eye?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_220_3.wav|Her paw went into your eye?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_220_4.wav|Her paw went into your eye?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_221_0.wav|I am a selfish sinner.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_221_1.wav|I am a selfish sinner.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_221_2.wav|I am a selfish sinner.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_221_3.wav|I am a selfish sinner.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_221_4.wav|I am a selfish sinner.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_222_0.wav|Ask god to help you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_222_1.wav|Ask god to help you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_222_2.wav|Ask god to help you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_222_3.wav|Ask god to help you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_222_4.wav|Ask god to help you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_223_0.wav|Pick, pick, pick!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_223_1.wav|Pick, pick, pick!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_223_2.wav|Pick, pick, pick!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_223_3.wav|Pick, pick, pick!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_223_4.wav|Pick, pick, pick!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_224_0.wav|Do you know the lid opens?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_224_1.wav|Do you know the lid opens?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_224_2.wav|Do you know the lid opens?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_224_3.wav|Do you know the lid opens?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_224_4.wav|Do you know the lid opens?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_225_0.wav|Her existence makes him pleasant.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_225_1.wav|Her existence makes him pleasant.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_225_2.wav|Her existence makes him pleasant.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_225_3.wav|Her existence makes him pleasant.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_225_4.wav|Her existence makes him pleasant.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_226_0.wav|And the next day. Nurse will be released.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_226_1.wav|And the next day. Nurse will be released.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_226_2.wav|And the next day. Nurse will be released.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_226_3.wav|And the next day. Nurse will be released.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_226_4.wav|And the next day. Nurse will be released.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_227_0.wav|Born once every one hundred years, dies in flames!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_227_1.wav|Born once every one hundred years, dies in flames!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_227_2.wav|Born once every one hundred years, dies in flames!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_227_3.wav|Born once every one hundred years, dies in flames!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_227_4.wav|Born once every one hundred years, dies in flames!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_228_0.wav|It says no way! shouted Daisy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_228_1.wav|It says no way! shouted Daisy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_228_2.wav|It says no way! shouted Daisy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_228_3.wav|It says no way! shouted Daisy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_228_4.wav|It says no way! shouted Daisy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_229_0.wav|The first year they sowed rye.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_229_1.wav|The first year they sowed rye.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_229_2.wav|The first year they sowed rye.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_229_3.wav|The first year they sowed rye.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_229_4.wav|The first year they sowed rye.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_22_0.wav|And what are doves. And what are doves.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_22_1.wav|And what are doves. And what are doves.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_22_2.wav|And what are doves. And what are doves.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_22_3.wav|And what are doves. And what are doves.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_22_4.wav|And what are doves. And what are doves.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_230_0.wav|Your own wife is not at home.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_230_1.wav|Your own wife is not at home.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_230_2.wav|Your own wife is not at home.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_230_3.wav|Your own wife is not at home.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_230_4.wav|Your own wife is not at home.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_231_0.wav|He told me that I ought to change.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_231_1.wav|He told me that I ought to change.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_231_2.wav|He told me that I ought to change.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_231_3.wav|He told me that I ought to change.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_231_4.wav|He told me that I ought to change.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_232_0.wav|Will call her Lili, for short.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_232_1.wav|Will call her Lili, for short.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_232_2.wav|Will call her Lili, for short.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_232_3.wav|Will call her Lili, for short.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_232_4.wav|Will call her Lili, for short.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_233_0.wav|Why should i care though David's lips were twitching?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_233_1.wav|Why should i care though David's lips were twitching?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_233_2.wav|Why should i care though David's lips were twitching?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_233_3.wav|Why should i care though David's lips were twitching?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_233_4.wav|Why should i care though David's lips were twitching?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_234_0.wav|Hurry up, hurry up!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_234_1.wav|Hurry up, hurry up!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_234_2.wav|Hurry up, hurry up!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_234_3.wav|Hurry up, hurry up!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_234_4.wav|Hurry up, hurry up!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_235_0.wav|If not, I shall go no further.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_235_1.wav|If not, I shall go no further.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_235_2.wav|If not, I shall go no further.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_235_3.wav|If not, I shall go no further.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_235_4.wav|If not, I shall go no further.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_236_0.wav|How rash you are!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_236_1.wav|How rash you are!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_236_2.wav|How rash you are!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_236_3.wav|How rash you are!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_236_4.wav|How rash you are!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_237_0.wav|What would they do at the end of the year?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_237_1.wav|What would they do at the end of the year?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_237_2.wav|What would they do at the end of the year?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_237_3.wav|What would they do at the end of the year?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_237_4.wav|What would they do at the end of the year?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_238_0.wav|Today isn't an other day.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_238_1.wav|Today isn't an other day.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_238_2.wav|Today isn't an other day.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_238_3.wav|Today isn't an other day.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_238_4.wav|Today isn't an other day.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_239_0.wav|This is the way that snakes always talk.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_239_1.wav|This is the way that snakes always talk.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_239_2.wav|This is the way that snakes always talk.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_239_3.wav|This is the way that snakes always talk.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_239_4.wav|This is the way that snakes always talk.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_23_0.wav|I thought you meant how old are you?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_23_1.wav|I thought you meant how old are you?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_23_2.wav|I thought you meant how old are you?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_23_3.wav|I thought you meant how old are you?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_23_4.wav|I thought you meant how old are you?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_240_0.wav|Both side were softly curved.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_240_1.wav|Both side were softly curved.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_240_2.wav|Both side were softly curved.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_240_3.wav|Both side were softly curved.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_240_4.wav|Both side were softly curved.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_241_0.wav|We have showed his shark tooth.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_241_1.wav|We have showed his shark tooth.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_241_2.wav|We have showed his shark tooth.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_241_3.wav|We have showed his shark tooth.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_241_4.wav|We have showed his shark tooth.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_242_0.wav|Give me your hand or I will cry harder than before.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_242_1.wav|Give me your hand or I will cry harder than before.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_242_2.wav|Give me your hand or I will cry harder than before.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_242_3.wav|Give me your hand or I will cry harder than before.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_242_4.wav|Give me your hand or I will cry harder than before.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_243_0.wav|And has you slain him?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_243_1.wav|And has you slain him?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_243_2.wav|And has you slain him?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_243_3.wav|And has you slain him?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_243_4.wav|And has you slain him?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_244_0.wav|Off for the prison ship.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_244_1.wav|Off for the prison ship.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_244_2.wav|Off for the prison ship.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_244_3.wav|Off for the prison ship.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_244_4.wav|Off for the prison ship.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_245_0.wav|Do you think it's a woozle?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_245_1.wav|Do you think it's a woozle?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_245_2.wav|Do you think it's a woozle?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_245_3.wav|Do you think it's a woozle?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_245_4.wav|Do you think it's a woozle?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_246_0.wav|We can not do it sir.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_246_1.wav|We can not do it sir.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_246_2.wav|We can not do it sir.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_246_3.wav|We can not do it sir.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_246_4.wav|We can not do it sir.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_247_0.wav|She and i are running a neck and neck race.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_247_1.wav|She and i are running a neck and neck race.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_247_2.wav|She and i are running a neck and neck race.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_247_3.wav|She and i are running a neck and neck race.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_247_4.wav|She and i are running a neck and neck race.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_248_0.wav|In which piglet meets an elephant.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_248_1.wav|In which piglet meets an elephant.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_248_2.wav|In which piglet meets an elephant.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_248_3.wav|In which piglet meets an elephant.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_248_4.wav|In which piglet meets an elephant.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_249_0.wav|You may imagine how I gape.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_249_1.wav|You may imagine how I gape.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_249_2.wav|You may imagine how I gape.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_249_3.wav|You may imagine how I gape.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_249_4.wav|You may imagine how I gape.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_24_0.wav|The football teams give a tea party.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_24_1.wav|The football teams give a tea party.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_24_2.wav|The football teams give a tea party.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_24_3.wav|The football teams give a tea party.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_24_4.wav|The football teams give a tea party.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_250_0.wav|Her kind and firm glance.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_250_1.wav|Her kind and firm glance.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_250_2.wav|Her kind and firm glance.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_250_3.wav|Her kind and firm glance.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_250_4.wav|Her kind and firm glance.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_251_0.wav|The ladybug told them proudly.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_251_1.wav|The ladybug told them proudly.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_251_2.wav|The ladybug told them proudly.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_251_3.wav|The ladybug told them proudly.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_251_4.wav|The ladybug told them proudly.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_252_0.wav|I am run off my feet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_252_1.wav|I am run off my feet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_252_2.wav|I am run off my feet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_252_3.wav|I am run off my feet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_252_4.wav|I am run off my feet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_253_0.wav|I have a soothsayer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_253_1.wav|I have a soothsayer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_253_2.wav|I have a soothsayer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_253_3.wav|I have a soothsayer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_253_4.wav|I have a soothsayer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_254_0.wav|She laughed.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_254_1.wav|She laughed.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_254_2.wav|She laughed.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_254_3.wav|She laughed.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_254_4.wav|She laughed.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_255_0.wav|This was the twenty fifth of november, seventeen eighty three.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_255_1.wav|This was the twenty fifth of november, seventeen eighty three.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_255_2.wav|This was the twenty fifth of november, seventeen eighty three.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_255_3.wav|This was the twenty fifth of november, seventeen eighty three.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_255_4.wav|This was the twenty fifth of november, seventeen eighty three.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_256_0.wav|I must have two to fetch and carry.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_256_1.wav|I must have two to fetch and carry.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_256_2.wav|I must have two to fetch and carry.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_256_3.wav|I must have two to fetch and carry.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_256_4.wav|I must have two to fetch and carry.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_257_0.wav|I would scoff at these followers.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_257_1.wav|I would scoff at these followers.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_257_2.wav|I would scoff at these followers.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_257_3.wav|I would scoff at these followers.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_257_4.wav|I would scoff at these followers.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_258_0.wav|Mum shuts one's mouth up, doesn't it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_258_1.wav|Mum shuts one's mouth up, doesn't it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_258_2.wav|Mum shuts one's mouth up, doesn't it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_258_3.wav|Mum shuts one's mouth up, doesn't it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_258_4.wav|Mum shuts one's mouth up, doesn't it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_259_0.wav|The song is called Ways and Means.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_259_1.wav|The song is called Ways and Means.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_259_2.wav|The song is called Ways and Means.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_259_3.wav|The song is called Ways and Means.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_259_4.wav|The song is called Ways and Means.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_25_0.wav|She is now choosing skirt to wear.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_25_1.wav|She is now choosing skirt to wear.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_25_2.wav|She is now choosing skirt to wear.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_25_3.wav|She is now choosing skirt to wear.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_25_4.wav|She is now choosing skirt to wear.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_260_0.wav|As soon as she went in, there was disorder.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_260_1.wav|As soon as she went in, there was disorder.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_260_2.wav|As soon as she went in, there was disorder.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_260_3.wav|As soon as she went in, there was disorder.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_260_4.wav|As soon as she went in, there was disorder.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_261_0.wav|After a while he perceived both giants.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_261_1.wav|After a while he perceived both giants.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_261_2.wav|After a while he perceived both giants.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_261_3.wav|After a while he perceived both giants.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_261_4.wav|After a while he perceived both giants.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_262_0.wav|I believe you are one of them!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_262_1.wav|I believe you are one of them!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_262_2.wav|I believe you are one of them!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_262_3.wav|I believe you are one of them!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_262_4.wav|I believe you are one of them!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_263_0.wav|She said in subdued voice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_263_1.wav|She said in subdued voice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_263_2.wav|She said in subdued voice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_263_3.wav|She said in subdued voice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_263_4.wav|She said in subdued voice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_264_0.wav|Slam the doors and wedge them!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_264_1.wav|Slam the doors and wedge them!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_264_2.wav|Slam the doors and wedge them!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_264_3.wav|Slam the doors and wedge them!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_264_4.wav|Slam the doors and wedge them!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_265_0.wav|I've just shot a stag.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_265_1.wav|I've just shot a stag.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_265_2.wav|I've just shot a stag.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_265_3.wav|I've just shot a stag.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_265_4.wav|I've just shot a stag.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_266_0.wav|We may join with that power.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_266_1.wav|We may join with that power.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_266_2.wav|We may join with that power.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_266_3.wav|We may join with that power.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_266_4.wav|We may join with that power.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_267_0.wav|Chapter eleven on the doorstep.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_267_1.wav|Chapter eleven on the doorstep.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_267_2.wav|Chapter eleven on the doorstep.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_267_3.wav|Chapter eleven on the doorstep.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_267_4.wav|Chapter eleven on the doorstep.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_268_0.wav|He showed no signs of age.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_268_1.wav|He showed no signs of age.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_268_2.wav|He showed no signs of age.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_268_3.wav|He showed no signs of age.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_268_4.wav|He showed no signs of age.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_269_0.wav|But show me how your map!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_269_1.wav|But show me how your map!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_269_2.wav|But show me how your map!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_269_3.wav|But show me how your map!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_269_4.wav|But show me how your map!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_26_0.wav|Let's make the noise like a snake.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_26_1.wav|Let's make the noise like a snake.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_26_2.wav|Let's make the noise like a snake.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_26_3.wav|Let's make the noise like a snake.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_26_4.wav|Let's make the noise like a snake.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_270_0.wav|Chew leaves quickly, said rabbit.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_270_1.wav|Chew leaves quickly, said rabbit.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_270_2.wav|Chew leaves quickly, said rabbit.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_270_3.wav|Chew leaves quickly, said rabbit.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_270_4.wav|Chew leaves quickly, said rabbit.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_271_0.wav|I say I will be emperor.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_271_1.wav|I say I will be emperor.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_271_2.wav|I say I will be emperor.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_271_3.wav|I say I will be emperor.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_271_4.wav|I say I will be emperor.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_272_0.wav|No admittance except on party business.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_272_1.wav|No admittance except on party business.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_272_2.wav|No admittance except on party business.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_272_3.wav|No admittance except on party business.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_272_4.wav|No admittance except on party business.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_273_0.wav|I'd just as soon swim your way as others do.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_273_1.wav|I'd just as soon swim your way as others do.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_273_2.wav|I'd just as soon swim your way as others do.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_273_3.wav|I'd just as soon swim your way as others do.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_273_4.wav|I'd just as soon swim your way as others do.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_274_0.wav|Because he was a man with infinite resource and sagacity.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_274_1.wav|Because he was a man with infinite resource and sagacity.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_274_2.wav|Because he was a man with infinite resource and sagacity.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_274_3.wav|Because he was a man with infinite resource and sagacity.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_274_4.wav|Because he was a man with infinite resource and sagacity.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_275_0.wav|You shouldn't have pricked him with your horn.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_275_1.wav|You shouldn't have pricked him with your horn.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_275_2.wav|You shouldn't have pricked him with your horn.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_275_3.wav|You shouldn't have pricked him with your horn.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_275_4.wav|You shouldn't have pricked him with your horn.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_276_0.wav|Can your name be more hilarious?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_276_1.wav|Can your name be more hilarious?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_276_2.wav|Can your name be more hilarious?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_276_3.wav|Can your name be more hilarious?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_276_4.wav|Can your name be more hilarious?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_277_0.wav|The end part is fish mouth.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_277_1.wav|The end part is fish mouth.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_277_2.wav|The end part is fish mouth.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_277_3.wav|The end part is fish mouth.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_277_4.wav|The end part is fish mouth.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_278_0.wav|I know you .
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_278_1.wav|I know you .
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_278_2.wav|I know you .
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_278_3.wav|I know you .
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_278_4.wav|I know you .
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_279_0.wav|These words behind the ears is nonsense.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_279_1.wav|These words behind the ears is nonsense.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_279_2.wav|These words behind the ears is nonsense.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_279_3.wav|These words behind the ears is nonsense.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_279_4.wav|These words behind the ears is nonsense.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_27_0.wav|Monster made a deep bow.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_27_1.wav|Monster made a deep bow.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_27_2.wav|Monster made a deep bow.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_27_3.wav|Monster made a deep bow.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_27_4.wav|Monster made a deep bow.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_280_0.wav|Your path now goes south.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_280_1.wav|Your path now goes south.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_280_2.wav|Your path now goes south.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_280_3.wav|Your path now goes south.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_280_4.wav|Your path now goes south.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_281_0.wav|He could not help doing so.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_281_1.wav|He could not help doing so.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_281_2.wav|He could not help doing so.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_281_3.wav|He could not help doing so.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_281_4.wav|He could not help doing so.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_282_0.wav|Alice I won't forget it again.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_282_1.wav|Alice I won't forget it again.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_282_2.wav|Alice I won't forget it again.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_282_3.wav|Alice I won't forget it again.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_282_4.wav|Alice I won't forget it again.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_283_0.wav|They had been named Tom and Jerry.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_283_1.wav|They had been named Tom and Jerry.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_283_2.wav|They had been named Tom and Jerry.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_283_3.wav|They had been named Tom and Jerry.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_283_4.wav|They had been named Tom and Jerry.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_284_0.wav|Chapter eighteen, the return journey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_284_1.wav|Chapter eighteen, the return journey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_284_2.wav|Chapter eighteen, the return journey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_284_3.wav|Chapter eighteen, the return journey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_284_4.wav|Chapter eighteen, the return journey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_285_0.wav|The straw, charcoal and the pea.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_285_1.wav|The straw, charcoal and the pea.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_285_2.wav|The straw, charcoal and the pea.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_285_3.wav|The straw, charcoal and the pea.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_285_4.wav|The straw, charcoal and the pea.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_286_0.wav|One two three, where is your breakfast.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_286_1.wav|One two three, where is your breakfast.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_286_2.wav|One two three, where is your breakfast.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_286_3.wav|One two three, where is your breakfast.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_286_4.wav|One two three, where is your breakfast.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_287_0.wav|A voice said: Come in.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_287_1.wav|A voice said: Come in.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_287_2.wav|A voice said: Come in.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_287_3.wav|A voice said: Come in.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_287_4.wav|A voice said: Come in.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_288_0.wav|She has felt shy of it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_288_1.wav|She has felt shy of it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_288_2.wav|She has felt shy of it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_288_3.wav|She has felt shy of it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_288_4.wav|She has felt shy of it.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_289_0.wav|No, said piggy carelessly.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_289_1.wav|No, said piggy carelessly.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_289_2.wav|No, said piggy carelessly.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_289_3.wav|No, said piggy carelessly.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_289_4.wav|No, said piggy carelessly.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_28_0.wav|She had said, so that one could keep up a conversation!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_28_1.wav|She had said, so that one could keep up a conversation!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_28_2.wav|She had said, so that one could keep up a conversation!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_28_3.wav|She had said, so that one could keep up a conversation!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_28_4.wav|She had said, so that one could keep up a conversation!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_290_0.wav|There goes the shawl again!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_290_1.wav|There goes the shawl again!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_290_2.wav|There goes the shawl again!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_290_3.wav|There goes the shawl again!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_290_4.wav|There goes the shawl again!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_291_0.wav|The end of february fourteenth.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_291_1.wav|The end of february fourteenth.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_291_2.wav|The end of february fourteenth.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_291_3.wav|The end of february fourteenth.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_291_4.wav|The end of february fourteenth.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_292_0.wav|She has a high voice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_292_1.wav|She has a high voice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_292_2.wav|She has a high voice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_292_3.wav|She has a high voice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_292_4.wav|She has a high voice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_293_0.wav|He is old fashioned but he is the best of men.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_293_1.wav|He is old fashioned but he is the best of men.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_293_2.wav|He is old fashioned but he is the best of men.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_293_3.wav|He is old fashioned but he is the best of men.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_293_4.wav|He is old fashioned but he is the best of men.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_294_0.wav|Now I understand.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_294_1.wav|Now I understand.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_294_2.wav|Now I understand.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_294_3.wav|Now I understand.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_294_4.wav|Now I understand.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_295_0.wav|I know how to obey orders.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_295_1.wav|I know how to obey orders.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_295_2.wav|I know how to obey orders.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_295_3.wav|I know how to obey orders.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_295_4.wav|I know how to obey orders.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_296_0.wav|You woke me up!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_296_1.wav|You woke me up!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_296_2.wav|You woke me up!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_296_3.wav|You woke me up!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_296_4.wav|You woke me up!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_297_0.wav|How Tom and Jerry went to visit mister Sam.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_297_1.wav|How Tom and Jerry went to visit mister Sam.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_297_2.wav|How Tom and Jerry went to visit mister Sam.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_297_3.wav|How Tom and Jerry went to visit mister Sam.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_297_4.wav|How Tom and Jerry went to visit mister Sam.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_298_0.wav|She come back to the valley.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_298_1.wav|She come back to the valley.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_298_2.wav|She come back to the valley.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_298_3.wav|She come back to the valley.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_298_4.wav|She come back to the valley.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_299_0.wav|His hope will cheat him.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_299_1.wav|His hope will cheat him.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_299_2.wav|His hope will cheat him.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_299_3.wav|His hope will cheat him.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_299_4.wav|His hope will cheat him.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_29_0.wav|Rat came and replied on the leaves.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_29_1.wav|Rat came and replied on the leaves.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_29_2.wav|Rat came and replied on the leaves.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_29_3.wav|Rat came and replied on the leaves.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_29_4.wav|Rat came and replied on the leaves.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_2_0.wav|I did go, and made many prisoners.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_2_1.wav|I did go, and made many prisoners.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_2_2.wav|I did go, and made many prisoners.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_2_3.wav|I did go, and made many prisoners.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_2_4.wav|I did go, and made many prisoners.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_300_0.wav|Six was half way down the room.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_300_1.wav|Six was half way down the room.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_300_2.wav|Six was half way down the room.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_300_3.wav|Six was half way down the room.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_300_4.wav|Six was half way down the room.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_301_0.wav|I'm sure your friends can wait!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_301_1.wav|I'm sure your friends can wait!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_301_2.wav|I'm sure your friends can wait!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_301_3.wav|I'm sure your friends can wait!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_301_4.wav|I'm sure your friends can wait!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_302_0.wav|Five hundred and one million right?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_302_1.wav|Five hundred and one million right?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_302_2.wav|Five hundred and one million right?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_302_3.wav|Five hundred and one million right?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_302_4.wav|Five hundred and one million right?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_303_0.wav|I am loath to see him go.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_303_1.wav|I am loath to see him go.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_303_2.wav|I am loath to see him go.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_303_3.wav|I am loath to see him go.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_303_4.wav|I am loath to see him go.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_304_0.wav|How do you like you dirty bird!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_304_1.wav|How do you like you dirty bird!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_304_2.wav|How do you like you dirty bird!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_304_3.wav|How do you like you dirty bird!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_304_4.wav|How do you like you dirty bird!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_305_0.wav|The fisherman and his wife see George every day.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_305_1.wav|The fisherman and his wife see George every day.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_305_2.wav|The fisherman and his wife see George every day.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_305_3.wav|The fisherman and his wife see George every day.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_305_4.wav|The fisherman and his wife see George every day.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_306_0.wav|Please invite Tom if there is not requires.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_306_1.wav|Please invite Tom if there is not requires.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_306_2.wav|Please invite Tom if there is not requires.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_306_3.wav|Please invite Tom if there is not requires.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_306_4.wav|Please invite Tom if there is not requires.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_307_0.wav|I owe them five hundred dollars.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_307_1.wav|I owe them five hundred dollars.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_307_2.wav|I owe them five hundred dollars.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_307_3.wav|I owe them five hundred dollars.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_307_4.wav|I owe them five hundred dollars.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_308_0.wav|Perhaps you think that is a queer title for this chapter.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_308_1.wav|Perhaps you think that is a queer title for this chapter.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_308_2.wav|Perhaps you think that is a queer title for this chapter.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_308_3.wav|Perhaps you think that is a queer title for this chapter.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_308_4.wav|Perhaps you think that is a queer title for this chapter.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_309_0.wav|He owed mister Lawson, I can't tell you how.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_309_1.wav|He owed mister Lawson, I can't tell you how.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_309_2.wav|He owed mister Lawson, I can't tell you how.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_309_3.wav|He owed mister Lawson, I can't tell you how.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_309_4.wav|He owed mister Lawson, I can't tell you how.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_30_0.wav|Must a name mean something?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_30_1.wav|Must a name mean something?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_30_2.wav|Must a name mean something?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_30_3.wav|Must a name mean something?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_30_4.wav|Must a name mean something?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_310_0.wav|Why it is just like the round egg which sounds thin.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_310_1.wav|Why it is just like the round egg which sounds thin.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_310_2.wav|Why it is just like the round egg which sounds thin.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_310_3.wav|Why it is just like the round egg which sounds thin.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_310_4.wav|Why it is just like the round egg which sounds thin.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_311_0.wav|I am back safe again.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_311_1.wav|I am back safe again.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_311_2.wav|I am back safe again.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_311_3.wav|I am back safe again.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_311_4.wav|I am back safe again.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_312_0.wav|Father has yellow eyes.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_312_1.wav|Father has yellow eyes.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_312_2.wav|Father has yellow eyes.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_312_3.wav|Father has yellow eyes.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_312_4.wav|Father has yellow eyes.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_313_0.wav|Give me a fine fat goose.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_313_1.wav|Give me a fine fat goose.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_313_2.wav|Give me a fine fat goose.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_313_3.wav|Give me a fine fat goose.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_313_4.wav|Give me a fine fat goose.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_314_0.wav|Bob goes to a new school.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_314_1.wav|Bob goes to a new school.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_314_2.wav|Bob goes to a new school.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_314_3.wav|Bob goes to a new school.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_314_4.wav|Bob goes to a new school.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_315_0.wav|It's to say how  you do with Tom's answer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_315_1.wav|It's to say how  you do with Tom's answer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_315_2.wav|It's to say how  you do with Tom's answer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_315_3.wav|It's to say how  you do with Tom's answer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_315_4.wav|It's to say how  you do with Tom's answer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_316_0.wav|A thief in the night.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_316_1.wav|A thief in the night.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_316_2.wav|A thief in the night.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_316_3.wav|A thief in the night.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_316_4.wav|A thief in the night.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_317_0.wav|At length they came to a sharp bend.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_317_1.wav|At length they came to a sharp bend.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_317_2.wav|At length they came to a sharp bend.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_317_3.wav|At length they came to a sharp bend.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_317_4.wav|At length they came to a sharp bend.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_318_0.wav|The name of the song is called haddocks.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_318_1.wav|The name of the song is called haddocks.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_318_2.wav|The name of the song is called haddocks.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_318_3.wav|The name of the song is called haddocks.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_318_4.wav|The name of the song is called haddocks.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_319_0.wav|How could I dig burrows with short toe nails?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_319_1.wav|How could I dig burrows with short toe nails?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_319_2.wav|How could I dig burrows with short toe nails?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_319_3.wav|How could I dig burrows with short toe nails?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_319_4.wav|How could I dig burrows with short toe nails?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_31_0.wav|All smile were real and the happier the more sincere .
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_31_1.wav|All smile were real and the happier the more sincere .
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_31_2.wav|All smile were real and the happier the more sincere .
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_31_3.wav|All smile were real and the happier the more sincere .
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_31_4.wav|All smile were real and the happier the more sincere .
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_320_0.wav|Goat Billy asked the old chinese guy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_320_1.wav|Goat Billy asked the old chinese guy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_320_2.wav|Goat Billy asked the old chinese guy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_320_3.wav|Goat Billy asked the old chinese guy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_320_4.wav|Goat Billy asked the old chinese guy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_321_0.wav|Called out the cloud.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_321_1.wav|Called out the cloud.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_321_2.wav|Called out the cloud.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_321_3.wav|Called out the cloud.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_321_4.wav|Called out the cloud.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_322_0.wav|A special pot too.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_322_1.wav|A special pot too.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_322_2.wav|A special pot too.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_322_3.wav|A special pot too.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_322_4.wav|A special pot too.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_323_0.wav|Why did I wake up!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_323_1.wav|Why did I wake up!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_323_2.wav|Why did I wake up!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_323_3.wav|Why did I wake up!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_323_4.wav|Why did I wake up!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_324_0.wav|And she caught at the brooch.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_324_1.wav|And she caught at the brooch.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_324_2.wav|And she caught at the brooch.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_324_3.wav|And she caught at the brooch.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_324_4.wav|And she caught at the brooch.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_325_0.wav|She has no place for hot peper .
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_325_1.wav|She has no place for hot peper .
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_325_2.wav|She has no place for hot peper .
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_325_3.wav|She has no place for hot peper .
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_325_4.wav|She has no place for hot peper .
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_326_0.wav|They are made of wood.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_326_1.wav|They are made of wood.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_326_2.wav|They are made of wood.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_326_3.wav|They are made of wood.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_326_4.wav|They are made of wood.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_327_0.wav|It's part of my secret.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_327_1.wav|It's part of my secret.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_327_2.wav|It's part of my secret.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_327_3.wav|It's part of my secret.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_327_4.wav|It's part of my secret.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_328_0.wav|It would be a hard choice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_328_1.wav|It would be a hard choice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_328_2.wav|It would be a hard choice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_328_3.wav|It would be a hard choice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_328_4.wav|It would be a hard choice.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_329_0.wav|And his heart wagged with joy like a lamb's tail.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_329_1.wav|And his heart wagged with joy like a lamb's tail.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_329_2.wav|And his heart wagged with joy like a lamb's tail.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_329_3.wav|And his heart wagged with joy like a lamb's tail.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_329_4.wav|And his heart wagged with joy like a lamb's tail.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_32_0.wav|Who is been repeating all that hard stuff to you?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_32_1.wav|Who is been repeating all that hard stuff to you?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_32_2.wav|Who is been repeating all that hard stuff to you?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_32_3.wav|Who is been repeating all that hard stuff to you?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_32_4.wav|Who is been repeating all that hard stuff to you?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_330_0.wav|She keeps saying I'm hers.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_330_1.wav|She keeps saying I'm hers.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_330_2.wav|She keeps saying I'm hers.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_330_3.wav|She keeps saying I'm hers.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_330_4.wav|She keeps saying I'm hers.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_331_0.wav|She'll be feverish after so much thinking.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_331_1.wav|She'll be feverish after so much thinking.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_331_2.wav|She'll be feverish after so much thinking.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_331_3.wav|She'll be feverish after so much thinking.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_331_4.wav|She'll be feverish after so much thinking.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_332_0.wav|where are you going?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_332_1.wav|where are you going?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_332_2.wav|where are you going?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_332_3.wav|where are you going?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_332_4.wav|where are you going?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_333_0.wav|You gain for nothing girl!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_333_1.wav|You gain for nothing girl!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_333_2.wav|You gain for nothing girl!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_333_3.wav|You gain for nothing girl!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_333_4.wav|You gain for nothing girl!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_334_0.wav|Another one, ten thousand dollars.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_334_1.wav|Another one, ten thousand dollars.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_334_2.wav|Another one, ten thousand dollars.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_334_3.wav|Another one, ten thousand dollars.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_334_4.wav|Another one, ten thousand dollars.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_335_0.wav|But things haven't change yet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_335_1.wav|But things haven't change yet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_335_2.wav|But things haven't change yet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_335_3.wav|But things haven't change yet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_335_4.wav|But things haven't change yet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_336_0.wav|Over them swooped the eagles.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_336_1.wav|Over them swooped the eagles.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_336_2.wav|Over them swooped the eagles.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_336_3.wav|Over them swooped the eagles.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_336_4.wav|Over them swooped the eagles.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_337_0.wav|But mom I'm not certain about.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_337_1.wav|But mom I'm not certain about.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_337_2.wav|But mom I'm not certain about.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_337_3.wav|But mom I'm not certain about.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_337_4.wav|But mom I'm not certain about.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_338_0.wav|Paul's teeth ached because of lemon.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_338_1.wav|Paul's teeth ached because of lemon.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_338_2.wav|Paul's teeth ached because of lemon.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_338_3.wav|Paul's teeth ached because of lemon.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_338_4.wav|Paul's teeth ached because of lemon.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_339_0.wav|And be with you,Tom!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_339_1.wav|And be with you,Tom!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_339_2.wav|And be with you,Tom!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_339_3.wav|And be with you,Tom!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_339_4.wav|And be with you,Tom!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_33_0.wav|This used to be Jerry's occupation.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_33_1.wav|This used to be Jerry's occupation.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_33_2.wav|This used to be Jerry's occupation.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_33_3.wav|This used to be Jerry's occupation.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_33_4.wav|This used to be Jerry's occupation.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_340_0.wav|So Tom saw night as it were broad daylight.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_340_1.wav|So Tom saw night as it were broad daylight.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_340_2.wav|So Tom saw night as it were broad daylight.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_340_3.wav|So Tom saw night as it were broad daylight.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_340_4.wav|So Tom saw night as it were broad daylight.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_341_0.wav|Enough,you foolish chatter.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_341_1.wav|Enough,you foolish chatter.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_341_2.wav|Enough,you foolish chatter.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_341_3.wav|Enough,you foolish chatter.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_341_4.wav|Enough,you foolish chatter.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_342_0.wav|Why should I purchase my own?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_342_1.wav|Why should I purchase my own?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_342_2.wav|Why should I purchase my own?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_342_3.wav|Why should I purchase my own?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_342_4.wav|Why should I purchase my own?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_343_0.wav|And what does it mean?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_343_1.wav|And what does it mean?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_343_2.wav|And what does it mean?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_343_3.wav|And what does it mean?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_343_4.wav|And what does it mean?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_344_0.wav|Lucy, a clever farmer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_344_1.wav|Lucy, a clever farmer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_344_2.wav|Lucy, a clever farmer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_344_3.wav|Lucy, a clever farmer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_344_4.wav|Lucy, a clever farmer.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_345_0.wav|A whirring noise was heard.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_345_1.wav|A whirring noise was heard.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_345_2.wav|A whirring noise was heard.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_345_3.wav|A whirring noise was heard.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_345_4.wav|A whirring noise was heard.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_346_0.wav|I am going back to back home.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_346_1.wav|I am going back to back home.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_346_2.wav|I am going back to back home.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_346_3.wav|I am going back to back home.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_346_4.wav|I am going back to back home.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_347_0.wav|What are you waiting for? man.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_347_1.wav|What are you waiting for? man.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_347_2.wav|What are you waiting for? man.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_347_3.wav|What are you waiting for? man.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_347_4.wav|What are you waiting for? man.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_348_0.wav|Dear customer,welcome to our ship.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_348_1.wav|Dear customer,welcome to our ship.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_348_2.wav|Dear customer,welcome to our ship.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_348_3.wav|Dear customer,welcome to our ship.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_348_4.wav|Dear customer,welcome to our ship.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_349_0.wav|What do you think of this question?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_349_1.wav|What do you think of this question?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_349_2.wav|What do you think of this question?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_349_3.wav|What do you think of this question?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_349_4.wav|What do you think of this question?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_34_0.wav|A divine wrath made her blue eyes awful.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_34_1.wav|A divine wrath made her blue eyes awful.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_34_2.wav|A divine wrath made her blue eyes awful.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_34_3.wav|A divine wrath made her blue eyes awful.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_34_4.wav|A divine wrath made her blue eyes awful.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_350_0.wav|Do you have anything in mind?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_350_1.wav|Do you have anything in mind?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_350_2.wav|Do you have anything in mind?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_350_3.wav|Do you have anything in mind?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_350_4.wav|Do you have anything in mind?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_35_0.wav|The name really is the agedaged man.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_35_1.wav|The name really is the agedaged man.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_35_2.wav|The name really is the agedaged man.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_35_3.wav|The name really is the agedaged man.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_35_4.wav|The name really is the agedaged man.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_36_0.wav|How I hate this foul pool!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_36_1.wav|How I hate this foul pool!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_36_2.wav|How I hate this foul pool!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_36_3.wav|How I hate this foul pool!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_36_4.wav|How I hate this foul pool!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_37_0.wav|I think it'll encourage me.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_37_1.wav|I think it'll encourage me.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_37_2.wav|I think it'll encourage me.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_37_3.wav|I think it'll encourage me.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_37_4.wav|I think it'll encourage me.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_38_0.wav|Hold up my chin, slow and solid.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_38_1.wav|Hold up my chin, slow and solid.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_38_2.wav|Hold up my chin, slow and solid.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_38_3.wav|Hold up my chin, slow and solid.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_38_4.wav|Hold up my chin, slow and solid.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_39_0.wav|Our thanks to God's oath.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_39_1.wav|Our thanks to God's oath.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_39_2.wav|Our thanks to God's oath.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_39_3.wav|Our thanks to God's oath.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_39_4.wav|Our thanks to God's oath.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_3_0.wav|That I owe my thanks to you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_3_1.wav|That I owe my thanks to you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_3_2.wav|That I owe my thanks to you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_3_3.wav|That I owe my thanks to you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_3_4.wav|That I owe my thanks to you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_40_0.wav|In which fox loses a tail and its elder sister finds one.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_40_1.wav|In which fox loses a tail and its elder sister finds one.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_40_2.wav|In which fox loses a tail and its elder sister finds one.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_40_3.wav|In which fox loses a tail and its elder sister finds one.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_40_4.wav|In which fox loses a tail and its elder sister finds one.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_41_0.wav|I chose the right way.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_41_1.wav|I chose the right way.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_41_2.wav|I chose the right way.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_41_3.wav|I chose the right way.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_41_4.wav|I chose the right way.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_42_0.wav|She may mind ye of her.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_42_1.wav|She may mind ye of her.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_42_2.wav|She may mind ye of her.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_42_3.wav|She may mind ye of her.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_42_4.wav|She may mind ye of her.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_43_0.wav|Story twenty nine a boy and a monkey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_43_1.wav|Story twenty nine a boy and a monkey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_43_2.wav|Story twenty nine a boy and a monkey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_43_3.wav|Story twenty nine a boy and a monkey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_43_4.wav|Story twenty nine a boy and a monkey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_44_0.wav|Take courage all isn't lost yet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_44_1.wav|Take courage all isn't lost yet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_44_2.wav|Take courage all isn't lost yet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_44_3.wav|Take courage all isn't lost yet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_44_4.wav|Take courage all isn't lost yet.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_45_0.wav|The nastiest things they saw were the cobwebs.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_45_1.wav|The nastiest things they saw were the cobwebs.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_45_2.wav|The nastiest things they saw were the cobwebs.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_45_3.wav|The nastiest things they saw were the cobwebs.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_45_4.wav|The nastiest things they saw were the cobwebs.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_46_0.wav|They'd never know I'd regular ran away.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_46_1.wav|They'd never know I'd regular ran away.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_46_2.wav|They'd never know I'd regular ran away.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_46_3.wav|They'd never know I'd regular ran away.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_46_4.wav|They'd never know I'd regular ran away.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_47_0.wav|please excuse me.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_47_1.wav|please excuse me.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_47_2.wav|please excuse me.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_47_3.wav|please excuse me.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_47_4.wav|please excuse me.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_48_0.wav|You are not a runaway,who are you?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_48_1.wav|You are not a runaway,who are you?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_48_2.wav|You are not a runaway,who are you?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_48_3.wav|You are not a runaway,who are you?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_48_4.wav|You are not a runaway,who are you?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_49_0.wav|Then we all say aha!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_49_1.wav|Then we all say aha!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_49_2.wav|Then we all say aha!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_49_3.wav|Then we all say aha!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_49_4.wav|Then we all say aha!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_4_0.wav|They went up to the dark mass job had pointed out.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_4_1.wav|They went up to the dark mass job had pointed out.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_4_2.wav|They went up to the dark mass job had pointed out.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_4_3.wav|They went up to the dark mass job had pointed out.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_4_4.wav|They went up to the dark mass job had pointed out.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_50_0.wav|Rabbit gave dog a hurrying up sort of nudge.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_50_1.wav|Rabbit gave dog a hurrying up sort of nudge.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_50_2.wav|Rabbit gave dog a hurrying up sort of nudge.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_50_3.wav|Rabbit gave dog a hurrying up sort of nudge.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_50_4.wav|Rabbit gave dog a hurrying up sort of nudge.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_51_0.wav|Said the American to the Chinese.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_51_1.wav|Said the American to the Chinese.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_51_2.wav|Said the American to the Chinese.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_51_3.wav|Said the American to the Chinese.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_51_4.wav|Said the American to the Chinese.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_52_0.wav|From August eighteenth, of their divorce.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_52_1.wav|From August eighteenth, of their divorce.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_52_2.wav|From August eighteenth, of their divorce.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_52_3.wav|From August eighteenth, of their divorce.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_52_4.wav|From August eighteenth, of their divorce.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_53_0.wav|He was still in the forest!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_53_1.wav|He was still in the forest!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_53_2.wav|He was still in the forest!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_53_3.wav|He was still in the forest!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_53_4.wav|He was still in the forest!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_54_0.wav|Are you a regular darkey really?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_54_1.wav|Are you a regular darkey really?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_54_2.wav|Are you a regular darkey really?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_54_3.wav|Are you a regular darkey really?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_54_4.wav|Are you a regular darkey really?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_55_0.wav|A deafening chirruping rent the air.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_55_1.wav|A deafening chirruping rent the air.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_55_2.wav|A deafening chirruping rent the air.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_55_3.wav|A deafening chirruping rent the air.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_55_4.wav|A deafening chirruping rent the air.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_56_0.wav|Your midget wife can never sing a song.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_56_1.wav|Your midget wife can never sing a song.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_56_2.wav|Your midget wife can never sing a song.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_56_3.wav|Your midget wife can never sing a song.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_56_4.wav|Your midget wife can never sing a song.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_57_0.wav|Hannibal come to see you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_57_1.wav|Hannibal come to see you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_57_2.wav|Hannibal come to see you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_57_3.wav|Hannibal come to see you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_57_4.wav|Hannibal come to see you.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_58_0.wav|The octopus has eight legs.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_58_1.wav|The octopus has eight legs.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_58_2.wav|The octopus has eight legs.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_58_3.wav|The octopus has eight legs.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_58_4.wav|The octopus has eight legs.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_59_0.wav|Zero four three a silver shilling is journey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_59_1.wav|Zero four three a silver shilling is journey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_59_2.wav|Zero four three a silver shilling is journey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_59_3.wav|Zero four three a silver shilling is journey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_59_4.wav|Zero four three a silver shilling is journey.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_5_0.wav|Clear than clear water!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_5_1.wav|Clear than clear water!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_5_2.wav|Clear than clear water!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_5_3.wav|Clear than clear water!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_5_4.wav|Clear than clear water!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_60_0.wav|That I am a born nurse.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_60_1.wav|That I am a born nurse.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_60_2.wav|That I am a born nurse.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_60_3.wav|That I am a born nurse.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_60_4.wav|That I am a born nurse.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_61_0.wav|Midyear is day, shire year.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_61_1.wav|Midyear is day, shire year.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_61_2.wav|Midyear is day, shire year.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_61_3.wav|Midyear is day, shire year.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_61_4.wav|Midyear is day, shire year.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_62_0.wav|Tom, went on eeyore gloomily.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_62_1.wav|Tom, went on eeyore gloomily.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_62_2.wav|Tom, went on eeyore gloomily.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_62_3.wav|Tom, went on eeyore gloomily.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_62_4.wav|Tom, went on eeyore gloomily.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_63_0.wav|Asteroid three hundred and twenty five.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_63_1.wav|Asteroid three hundred and twenty five.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_63_2.wav|Asteroid three hundred and twenty five.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_63_3.wav|Asteroid three hundred and twenty five.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_63_4.wav|Asteroid three hundred and twenty five.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_64_0.wav|And we are so thirsty!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_64_1.wav|And we are so thirsty!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_64_2.wav|And we are so thirsty!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_64_3.wav|And we are so thirsty!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_64_4.wav|And we are so thirsty!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_65_0.wav|Tom could hardly speak for laughing.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_65_1.wav|Tom could hardly speak for laughing.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_65_2.wav|Tom could hardly speak for laughing.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_65_3.wav|Tom could hardly speak for laughing.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_65_4.wav|Tom could hardly speak for laughing.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_66_0.wav|Shall we let barbara in?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_66_1.wav|Shall we let barbara in?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_66_2.wav|Shall we let barbara in?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_66_3.wav|Shall we let barbara in?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_66_4.wav|Shall we let barbara in?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_67_0.wav|I suppose no, it doesn't!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_67_1.wav|I suppose no, it doesn't!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_67_2.wav|I suppose no, it doesn't!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_67_3.wav|I suppose no, it doesn't!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_67_4.wav|I suppose no, it doesn't!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_68_0.wav|I do not eat bread.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_68_1.wav|I do not eat bread.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_68_2.wav|I do not eat bread.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_68_3.wav|I do not eat bread.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_68_4.wav|I do not eat bread.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_69_0.wav|Not much use is it, sam?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_69_1.wav|Not much use is it, sam?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_69_2.wav|Not much use is it, sam?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_69_3.wav|Not much use is it, sam?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_69_4.wav|Not much use is it, sam?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_6_0.wav|Andy what's the gyre and to gimble.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_6_1.wav|Andy what's the gyre and to gimble.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_6_2.wav|Andy what's the gyre and to gimble.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_6_3.wav|Andy what's the gyre and to gimble.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_6_4.wav|Andy what's the gyre and to gimble.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_70_0.wav|Tom now let our arrows fly!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_70_1.wav|Tom now let our arrows fly!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_70_2.wav|Tom now let our arrows fly!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_70_3.wav|Tom now let our arrows fly!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_70_4.wav|Tom now let our arrows fly!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_71_0.wav|She was born on april nineteen forty three.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_71_1.wav|She was born on april nineteen forty three.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_71_2.wav|She was born on april nineteen forty three.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_71_3.wav|She was born on april nineteen forty three.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_71_4.wav|She was born on april nineteen forty three.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_72_0.wav|How are you, dear child?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_72_1.wav|How are you, dear child?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_72_2.wav|How are you, dear child?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_72_3.wav|How are you, dear child?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_72_4.wav|How are you, dear child?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_73_0.wav|how suspicious this fox.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_73_1.wav|how suspicious this fox.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_73_2.wav|how suspicious this fox.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_73_3.wav|how suspicious this fox.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_73_4.wav|how suspicious this fox.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_74_0.wav|Come on my jack in the boxes!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_74_1.wav|Come on my jack in the boxes!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_74_2.wav|Come on my jack in the boxes!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_74_3.wav|Come on my jack in the boxes!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_74_4.wav|Come on my jack in the boxes!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_75_0.wav|I'd far rather go without them than eat them!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_75_1.wav|I'd far rather go without them than eat them!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_75_2.wav|I'd far rather go without them than eat them!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_75_3.wav|I'd far rather go without them than eat them!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_75_4.wav|I'd far rather go without them than eat them!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_76_0.wav|The hag looked in the stove.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_76_1.wav|The hag looked in the stove.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_76_2.wav|The hag looked in the stove.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_76_3.wav|The hag looked in the stove.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_76_4.wav|The hag looked in the stove.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_77_0.wav|But I saw you walking.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_77_1.wav|But I saw you walking.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_77_2.wav|But I saw you walking.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_77_3.wav|But I saw you walking.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_77_4.wav|But I saw you walking.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_78_0.wav|The art quite safe with me.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_78_1.wav|The art quite safe with me.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_78_2.wav|The art quite safe with me.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_78_3.wav|The art quite safe with me.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_78_4.wav|The art quite safe with me.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_79_0.wav|All my gum tips gone as well.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_79_1.wav|All my gum tips gone as well.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_79_2.wav|All my gum tips gone as well.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_79_3.wav|All my gum tips gone as well.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_79_4.wav|All my gum tips gone as well.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_7_0.wav|I'm as bad as I can be.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_7_1.wav|I'm as bad as I can be.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_7_2.wav|I'm as bad as I can be.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_7_3.wav|I'm as bad as I can be.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_7_4.wav|I'm as bad as I can be.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_80_0.wav|Then there was a report.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_80_1.wav|Then there was a report.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_80_2.wav|Then there was a report.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_80_3.wav|Then there was a report.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_80_4.wav|Then there was a report.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_81_0.wav|And I never had a whooping cough why.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_81_1.wav|And I never had a whooping cough why.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_81_2.wav|And I never had a whooping cough why.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_81_3.wav|And I never had a whooping cough why.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_81_4.wav|And I never had a whooping cough why.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_82_0.wav|A fair jaw cracker dwarf language must be!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_82_1.wav|A fair jaw cracker dwarf language must be!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_82_2.wav|A fair jaw cracker dwarf language must be!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_82_3.wav|A fair jaw cracker dwarf language must be!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_82_4.wav|A fair jaw cracker dwarf language must be!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_83_0.wav|Be off now as quick as you may!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_83_1.wav|Be off now as quick as you may!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_83_2.wav|Be off now as quick as you may!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_83_3.wav|Be off now as quick as you may!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_83_4.wav|Be off now as quick as you may!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_84_0.wav|By hook or by crook.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_84_1.wav|By hook or by crook.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_84_2.wav|By hook or by crook.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_84_3.wav|By hook or by crook.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_84_4.wav|By hook or by crook.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_85_0.wav|Suppose I take grandmother a fresh vegetable.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_85_1.wav|Suppose I take grandmother a fresh vegetable.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_85_2.wav|Suppose I take grandmother a fresh vegetable.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_85_3.wav|Suppose I take grandmother a fresh vegetable.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_85_4.wav|Suppose I take grandmother a fresh vegetable.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_86_0.wav|And tick a tack too.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_86_1.wav|And tick a tack too.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_86_2.wav|And tick a tack too.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_86_3.wav|And tick a tack too.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_86_4.wav|And tick a tack too.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_87_0.wav|A hippo lives in the zoo.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_87_1.wav|A hippo lives in the zoo.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_87_2.wav|A hippo lives in the zoo.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_87_3.wav|A hippo lives in the zoo.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_87_4.wav|A hippo lives in the zoo.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_88_0.wav|In my opinion that is a good idea!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_88_1.wav|In my opinion that is a good idea!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_88_2.wav|In my opinion that is a good idea!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_88_3.wav|In my opinion that is a good idea!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_88_4.wav|In my opinion that is a good idea!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_89_0.wav|Let go of my top knot.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_89_1.wav|Let go of my top knot.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_89_2.wav|Let go of my top knot.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_89_3.wav|Let go of my top knot.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_89_4.wav|Let go of my top knot.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_8_0.wav|That was his chief thought.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_8_1.wav|That was his chief thought.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_8_2.wav|That was his chief thought.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_8_3.wav|That was his chief thought.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_8_4.wav|That was his chief thought.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_90_0.wav|And they did push so!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_90_1.wav|And they did push so!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_90_2.wav|And they did push so!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_90_3.wav|And they did push so!
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_90_4.wav|And they did push so!

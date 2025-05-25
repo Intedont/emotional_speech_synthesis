@@ -1,0 +1,50 @@
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_91_0.pt|We expected Tom would jump for joy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_91_1.pt|We expected Tom would jump for joy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_91_2.pt|We expected Tom would jump for joy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_91_3.pt|We expected Tom would jump for joy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_91_4.pt|We expected Tom would jump for joy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_92_0.pt|Does the one that wins get the crowned?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_92_1.pt|Does the one that wins get the crowned?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_92_2.pt|Does the one that wins get the crowned?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_92_3.pt|Does the one that wins get the crowned?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_92_4.pt|Does the one that wins get the crowned?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_93_0.pt|To buy two pork chops.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_93_1.pt|To buy two pork chops.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_93_2.pt|To buy two pork chops.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_93_3.pt|To buy two pork chops.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_93_4.pt|To buy two pork chops.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_94_0.pt|They found a cow grazing in a field.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_94_1.pt|They found a cow grazing in a field.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_94_2.pt|They found a cow grazing in a field.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_94_3.pt|They found a cow grazing in a field.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_94_4.pt|They found a cow grazing in a field.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_95_0.pt|what i have we here?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_95_1.pt|what i have we here?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_95_2.pt|what i have we here?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_95_3.pt|what i have we here?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_95_4.pt|what i have we here?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_96_0.pt|I don't painted tiger.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_96_1.pt|I don't painted tiger.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_96_2.pt|I don't painted tiger.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_96_3.pt|I don't painted tiger.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_96_4.pt|I don't painted tiger.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_97_0.pt|Confess that you opened the thirteenth door.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_97_1.pt|Confess that you opened the thirteenth door.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_97_2.pt|Confess that you opened the thirteenth door.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_97_3.pt|Confess that you opened the thirteenth door.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_97_4.pt|Confess that you opened the thirteenth door.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_98_0.pt|Said the witch.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_98_1.pt|Said the witch.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_98_2.pt|Said the witch.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_98_3.pt|Said the witch.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_98_4.pt|Said the witch.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_99_0.pt|I've hit the wrong nose.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_99_1.pt|I've hit the wrong nose.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_99_2.pt|I've hit the wrong nose.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_99_3.pt|I've hit the wrong nose.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_99_4.pt|I've hit the wrong nose.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_9_0.pt|On the twenty second of last march.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_9_1.pt|On the twenty second of last march.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_9_2.pt|On the twenty second of last march.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_9_3.pt|On the twenty second of last march.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/mels/5_9_4.pt|On the twenty second of last march.

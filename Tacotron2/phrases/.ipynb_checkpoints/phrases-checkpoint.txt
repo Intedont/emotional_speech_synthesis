@@ -1,0 +1,100 @@
+<Neutral> Well anyhow it didn't rain, he said.
+<Angry> Well anyhow it didn't rain, he said.
+<Happy> Well anyhow it didn't rain, he said.
+<Sad> Well anyhow it didn't rain, he said.
+<Surprised> Well anyhow it didn't rain, he said.
+<Neutral> It's me piglit, help help!
+<Angry> It's me piglit, help help!
+<Happy> It's me piglit, help help!
+<Sad> It's me piglit, help help!
+<Surprised> It's me piglit, help help!
+<Neutral> This is Jack, the relatives of Tom.
+<Angry> This is Jack, the relatives of Tom.
+<Happy> This is Jack, the relatives of Tom.
+<Sad> This is Jack, the relatives of Tom.
+<Surprised> This is Jack, the relatives of Tom.
+<Neutral> The elephant and the carpenter is the longest.
+<Angry> The elephant and the carpenter is the longest.
+<Happy> The elephant and the carpenter is the longest.
+<Sad> The elephant and the carpenter is the longest.
+<Surprised> The elephant and the carpenter is the longest.
+<Neutral> Here i am whom you seek.
+<Angry> Here i am whom you seek.
+<Happy> Here i am whom you seek.
+<Sad> Here i am whom you seek.
+<Surprised> Here i am whom you seek.
+<Neutral> He was killed by an arrow.
+<Angry> He was killed by an arrow.
+<Happy> He was killed by an arrow.
+<Sad> He was killed by an arrow.
+<Surprised> He was killed by an arrow.
+<Neutral> I guess it's a choice feast.
+<Angry> I guess it's a choice feast.
+<Happy> I guess it's a choice feast.
+<Sad> I guess it's a choice feast.
+<Surprised> I guess it's a choice feast.
+<Neutral> Tom and Michael woke up next morning.
+<Angry> Tom and Michael woke up next morning.
+<Happy> Tom and Michael woke up next morning.
+<Sad> Tom and Michael woke up next morning.
+<Surprised> Tom and Michael woke up next morning.
+<Neutral> The squire himself showed perfect.
+<Angry> The squire himself showed perfect.
+<Happy> The squire himself showed perfect.
+<Sad> The squire himself showed perfect.
+<Surprised> The squire himself showed perfect.
+<Neutral> If they mother knew it.
+<Angry> If they mother knew it.
+<Happy> If they mother knew it.
+<Sad> If they mother knew it.
+<Surprised> If they mother knew it.
+<Neutral> A nauseous draught.
+<Angry> A nauseous draught.
+<Happy> A nauseous draught.
+<Sad> A nauseous draught.
+<Surprised> A nauseous draught.
+<Neutral> Act drop second act scene.
+<Angry> Act drop second act scene.
+<Happy> Act drop second act scene.
+<Sad> Act drop second act scene.
+<Surprised> Act drop second act scene.
+<Neutral> We nightly dance our heyday guise.
+<Angry> We nightly dance our heyday guise.
+<Happy> We nightly dance our heyday guise.
+<Sad> We nightly dance our heyday guise.
+<Surprised> We nightly dance our heyday guise.
+<Neutral> Clown, to call him joey.
+<Angry> Clown, to call him joey.
+<Happy> Clown, to call him joey.
+<Sad> Clown, to call him joey.
+<Surprised> Clown, to call him joey.
+<Neutral> Mister lawson saw george last night.
+<Angry> Mister lawson saw george last night.
+<Happy> Mister lawson saw george last night.
+<Sad> Mister lawson saw george last night.
+<Surprised> Mister lawson saw george last night.
+<Neutral> A half pounds of flour and two ounces suet.
+<Angry> A half pounds of flour and two ounces suet.
+<Happy> A half pounds of flour and two ounces suet.
+<Sad> A half pounds of flour and two ounces suet.
+<Surprised> A half pounds of flour and two ounces suet.
+<Neutral> He might call it, for example.
+<Angry> He might call it, for example.
+<Happy> He might call it, for example.
+<Sad> He might call it, for example.
+<Surprised> He might call it, for example.
+<Neutral> No, I burst the balloon!
+<Angry> No, I burst the balloon!
+<Happy> No, I burst the balloon!
+<Sad> No, I burst the balloon!
+<Surprised> No, I burst the balloon!
+<Neutral> They were children of mine.
+<Angry> They were children of mine.
+<Happy> They were children of mine.
+<Sad> They were children of mine.
+<Surprised> They were children of mine.
+<Neutral> Look out! said Alice.
+<Angry> Look out! said Alice.
+<Happy> Look out! said Alice.
+<Sad> Look out! said Alice.
+<Surprised> Look out! said Alice.

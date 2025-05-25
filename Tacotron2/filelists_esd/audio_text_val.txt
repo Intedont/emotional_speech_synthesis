@@ -1,0 +1,50 @@
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_91_0.wav|We expected Tom would jump for joy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_91_1.wav|We expected Tom would jump for joy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_91_2.wav|We expected Tom would jump for joy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_91_3.wav|We expected Tom would jump for joy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_91_4.wav|We expected Tom would jump for joy.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_92_0.wav|Does the one that wins get the crowned?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_92_1.wav|Does the one that wins get the crowned?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_92_2.wav|Does the one that wins get the crowned?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_92_3.wav|Does the one that wins get the crowned?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_92_4.wav|Does the one that wins get the crowned?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_93_0.wav|To buy two pork chops.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_93_1.wav|To buy two pork chops.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_93_2.wav|To buy two pork chops.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_93_3.wav|To buy two pork chops.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_93_4.wav|To buy two pork chops.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_94_0.wav|They found a cow grazing in a field.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_94_1.wav|They found a cow grazing in a field.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_94_2.wav|They found a cow grazing in a field.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_94_3.wav|They found a cow grazing in a field.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_94_4.wav|They found a cow grazing in a field.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_95_0.wav|what i have we here?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_95_1.wav|what i have we here?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_95_2.wav|what i have we here?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_95_3.wav|what i have we here?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_95_4.wav|what i have we here?
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_96_0.wav|I don't painted tiger.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_96_1.wav|I don't painted tiger.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_96_2.wav|I don't painted tiger.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_96_3.wav|I don't painted tiger.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_96_4.wav|I don't painted tiger.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_97_0.wav|Confess that you opened the thirteenth door.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_97_1.wav|Confess that you opened the thirteenth door.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_97_2.wav|Confess that you opened the thirteenth door.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_97_3.wav|Confess that you opened the thirteenth door.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_97_4.wav|Confess that you opened the thirteenth door.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_98_0.wav|Said the witch.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_98_1.wav|Said the witch.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_98_2.wav|Said the witch.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_98_3.wav|Said the witch.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_98_4.wav|Said the witch.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_99_0.wav|I've hit the wrong nose.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_99_1.wav|I've hit the wrong nose.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_99_2.wav|I've hit the wrong nose.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_99_3.wav|I've hit the wrong nose.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_99_4.wav|I've hit the wrong nose.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_9_0.wav|On the twenty second of last march.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_9_1.wav|On the twenty second of last march.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_9_2.wav|On the twenty second of last march.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_9_3.wav|On the twenty second of last march.
+/home/madusov/vkr/data/ssw_esd_ljspeech_22050/wavs/5_9_4.wav|On the twenty second of last march.

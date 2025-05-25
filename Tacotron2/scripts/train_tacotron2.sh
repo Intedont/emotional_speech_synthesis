@@ -1,0 +1,2 @@
+mkdir -p output
+python -m multiproc train.py -m Tacotron2 -o ./output/ -lr 1e-3 --dataset-path /home/madusov/vkr/data/ssw_esd_ljspeech_22050 --training-files filelists_esd/audio_text_train.txt --validation-files filelists_esd/audio_text_val.txt --epochs 15000 --epochs-per-checkpoint 5 -bs 100 --weight-decay 1e-6 --grad-clip-thresh 1.0 --cudnn-enabled --log-file nvlog.json --anneal-steps 6030 6040 6577 7200 --anneal-factor 0.1 --checkpoint-path output/checkpoint_Tacotron2_6575.pt

@@ -696,10 +696,8 @@ class Tacotron2(nn.Module):
         embedded_inputs = self.embedding(inputs).transpose(1, 2)
         encoder_outputs = self.encoder.infer(embedded_inputs, input_lengths)
 
-        # 
         if emotions is not None:
             style_embed = self.gst(emotions[0]['<Neutral>']['mel'].permute(0,2,1))
-            # style_embed = self.m5(emotions['<Neutral>']['audio'].unsqueeze(0).unsqueeze(1))
             style_embed = style_embed.expand_as(encoder_outputs).clone()
 
             # sort emotions by its position in text
@@ -707,7 +705,6 @@ class Tacotron2(nn.Module):
                 emotions_list = []
                 for emotion in emotions_text:
                     style = self.gst(emotions_text[emotion]['mel'].permute(0,2,1))
-                    # style = self.m5(emotions[emotion]['audio'].unsqueeze(0).unsqueeze(1))
                     for pos in emotions_text[emotion]['pos']:
                         emotions_list.append({'pos': pos, 'style': style})
                 
@@ -715,20 +712,6 @@ class Tacotron2(nn.Module):
 
                 for pair in emotions_list:
                     style_embed[i, pair['pos']:] = pair['style'][0][0]
-            
-            # print(style_embed[0, :10, 0])
-            # print(style_embed.shape)
-            
-            # print(encoder_outputs.shape)
-            # print(ref_mels.shape)
-            # style_embed = self.gst(ref_mels.permute(0,2,1))  # [N, 256]
-            # style_embed = style_embed.repeat(1, encoder_outputs.shape[1] // 2, 1)
-            # style_embed_2 = self.gst(ref_mel_2.permute(0,2,1))
-            # style_embed_2 = style_embed_2.repeat(1, (encoder_outputs.shape[1] - encoder_outputs.shape[1] // 2), 1)
-            # style_embed = torch.cat([style_embed, style_embed_2], dim=1)
-            # print(style_embed.shape)
-            # style_embed = style_embed.expand_as(encoder_outputs)
-            # print(style_embed.shape)
 
             encoder_outputs = encoder_outputs + style_embed
         # 
@@ -759,7 +742,6 @@ class Tacotron2(nn.Module):
     #         style_2 = self.gst(emotions[0]['<Happy>']['mel'].permute(0,2,1))
 
     #         delta = style_2 - style_1
-    #         # style = style_1 * 0 + style_2 * 1
     #         style = style_1 + delta * 0.27
 
     #         print(dot(style_2[0][0].cpu(), style[0][0].cpu())/(norm(style_2[0][0].cpu())*norm(style[0][0].cpu())))

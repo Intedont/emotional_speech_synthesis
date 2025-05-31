@@ -277,96 +277,9 @@ class MeasureTime():
         self.measurements[self.key] = time.perf_counter() - self.t0
 
 
-def main():
-    """
-    Launches text to speech (inference).
-    Inference is executed on a single GPU or CPU.
-    """
-    parser = argparse.ArgumentParser(
-        description='PyTorch Tacotron 2 Inference')
-    parser = parse_args(parser)
-    args, _ = parser.parse_known_args()
-
-    log_file = os.path.join(args.output, args.log_file)
-    DLLogger.init(backends=[JSONStreamBackend(Verbosity.DEFAULT, log_file),
-                            StdOutBackend(Verbosity.VERBOSE)])
-    for k,v in vars(args).items():
-        DLLogger.log(step="PARAMETER", data={k:v})
-    DLLogger.log(step="PARAMETER", data={'model_name':'Tacotron2_PyT'})
-
-    tacotron2 = load_and_setup_model('Tacotron2', parser, args.tacotron2,
-                                     args.fp16, args.cpu, forward_is_infer=True)
-    waveglow = load_and_setup_model('WaveGlow', parser, args.waveglow,
-                                    args.fp16, args.cpu, forward_is_infer=True,
-                                    jittable=True)
-    denoiser = Denoiser(waveglow)
-    if not args.cpu:
-        denoiser.cuda()
-
-    waveglow.make_ts_scriptable()
-    jitted_waveglow = torch.jit.script(waveglow)
-    # jitted_tacotron2 = torch.jit.script(tacotron2)
-
-    texts = []
-    try:
-        f = open(args.input, 'r')
-        texts = f.readlines()
-    except:
-        print("Could not read file")
-        sys.exit(1)
-
-    if args.include_warmup:
-        sequence = torch.randint(low=0, high=148, size=(1,50)).long()
-        input_lengths = torch.IntTensor([sequence.size(1)]).long()
-        if not args.cpu:
-            sequence = sequence.cuda()
-            input_lengths = input_lengths.cuda()
-        for i in range(3):
-            with torch.no_grad():
-                mel, mel_lengths, _ = tacotron2(sequence, input_lengths)
-                _ = jitted_waveglow(mel)
-
-    measurements = {}
-
-    sequences_padded, input_lengths = prepare_input_sequence(texts, args.cpu)
-
-    with torch.no_grad(), MeasureTime(measurements, "tacotron2_time", args.cpu):
-        mel, mel_lengths, alignments = tacotron2(sequences_padded, input_lengths)
-
-    with torch.no_grad(), MeasureTime(measurements, "waveglow_time", args.cpu):
-        audios = jitted_waveglow(mel, sigma=args.sigma_infer)
-        audios = audios.float()
-    with torch.no_grad(), MeasureTime(measurements, "denoiser_time", args.cpu):
-        audios = denoiser(audios, strength=args.denoising_strength).squeeze(1)
-
-    print("Stopping after",mel.size(2),"decoder steps")
-    tacotron2_infer_perf = mel.size(0)*mel.size(2)/measurements['tacotron2_time']
-    waveglow_infer_perf = audios.size(0)*audios.size(1)/measurements['waveglow_time']
-
-    DLLogger.log(step=0, data={"tacotron2_items_per_sec": tacotron2_infer_perf})
-    DLLogger.log(step=0, data={"tacotron2_latency": measurements['tacotron2_time']})
-    DLLogger.log(step=0, data={"waveglow_items_per_sec": waveglow_infer_perf})
-    DLLogger.log(step=0, data={"waveglow_latency": measurements['waveglow_time']})
-    DLLogger.log(step=0, data={"denoiser_latency": measurements['denoiser_time']})
-    DLLogger.log(step=0, data={"latency": (measurements['tacotron2_time']+measurements['waveglow_time']+measurements['denoiser_time'])})
-
-    for i, audio in enumerate(audios):
-
-        plt.imshow(alignments[i].float().data.cpu().numpy().T, aspect="auto", origin="lower")
-        figure_path = os.path.join(args.output,"alignment_"+str(i)+args.suffix+".png")
-        plt.savefig(figure_path)
-
-        audio = audio[:mel_lengths[i]*args.stft_hop_length]
-        audio = audio/torch.max(torch.abs(audio))
-        audio_path = os.path.join(args.output,"audio_"+str(i)+args.suffix+".wav")
-        write(audio_path, args.sampling_rate, audio.cpu().numpy())
-
-    DLLogger.flush()
-
-
 def main_gst():
     """
-    Launches text to speech (inference).
+    Launches text to speech (inference) by batches.
     Inference is executed on a single GPU or CPU.
     """
     parser = argparse.ArgumentParser(
@@ -425,20 +338,6 @@ def main_gst():
 
         tag2ref[emo] = emo_mel
 
-    # if not args.cpu:
-    #     ref_mel = ref_mel.to('cuda')
-
-
-    # if args.include_warmup:
-    #     sequence = torch.randint(low=0, high=148, size=(1,50)).long()
-    #     input_lengths = torch.IntTensor([sequence.size(1)]).long()
-    #     if not args.cpu:
-    #         sequence = sequence.cuda()
-    #         input_lengths = input_lengths.cuda()
-    #     for i in range(3):
-    #         with torch.no_grad():
-    #             mel, mel_lengths, _ = tacotron2(sequence, input_lengths)
-    #             _ = jitted_waveglow(mel)
 
     measurements = {}
 
@@ -487,9 +386,9 @@ def main_gst():
     DLLogger.flush()
 
 
-def main_gst_():
+def main_gst_by_one():
     """
-    Launches text to speech (inference).
+    Launches text to speech (inference) by one.
     Inference is executed on a single GPU or CPU.
     """
     parser = argparse.ArgumentParser(
@@ -547,21 +446,6 @@ def main_gst_():
             emo_mel = emo_mel.to('cuda')
 
         tag2ref[emo] = emo_mel
-
-    # if not args.cpu:
-    #     ref_mel = ref_mel.to('cuda')
-
-
-    # if args.include_warmup:
-    #     sequence = torch.randint(low=0, high=148, size=(1,50)).long()
-    #     input_lengths = torch.IntTensor([sequence.size(1)]).long()
-    #     if not args.cpu:
-    #         sequence = sequence.cuda()
-    #         input_lengths = input_lengths.cuda()
-    #     for i in range(3):
-    #         with torch.no_grad():
-    #             mel, mel_lengths, _ = tacotron2(sequence, input_lengths)
-    #             _ = jitted_waveglow(mel)
 
     measurements = {}
 
@@ -613,7 +497,7 @@ def main_gst_():
 
 def main_gst_intermediate():
     """
-    Launches text to speech (inference).
+    Check emotion interpolation.
     Inference is executed on a single GPU or CPU.
     """
     parser = argparse.ArgumentParser(
@@ -672,21 +556,6 @@ def main_gst_intermediate():
 
         tag2ref[emo] = emo_mel
 
-    # if not args.cpu:
-    #     ref_mel = ref_mel.to('cuda')
-
-
-    # if args.include_warmup:
-    #     sequence = torch.randint(low=0, high=148, size=(1,50)).long()
-    #     input_lengths = torch.IntTensor([sequence.size(1)]).long()
-    #     if not args.cpu:
-    #         sequence = sequence.cuda()
-    #         input_lengths = input_lengths.cuda()
-    #     for i in range(3):
-    #         with torch.no_grad():
-    #             mel, mel_lengths, _ = tacotron2(sequence, input_lengths)
-    #             _ = jitted_waveglow(mel)
-
     measurements = {}
 
     for i, text in enumerate(texts):
@@ -700,7 +569,7 @@ def main_gst_intermediate():
                      '<Surprised>': {'mel': tag2ref['<Surprised>']}}]
 
         with torch.no_grad(), MeasureTime(measurements, "tacotron2_time", args.cpu):
-            mel, mel_lengths, alignments = tacotron2(sequences_padded, input_lengths, emotions)#, ref_mel_2)
+            mel, mel_lengths, alignments = tacotron2(sequences_padded, input_lengths, emotions)
 
         with torch.no_grad(), MeasureTime(measurements, "waveglow_time", args.cpu):
             audios = jitted_waveglow(mel, sigma=args.sigma_infer)
@@ -733,131 +602,5 @@ def main_gst_intermediate():
     DLLogger.flush()
 
 
-def main_m5():
-    """
-    Launches text to speech (inference).
-    Inference is executed on a single GPU or CPU.
-    """
-    parser = argparse.ArgumentParser(
-        description='PyTorch Tacotron 2 Inference')
-    parser = parse_args(parser)
-    args, _ = parser.parse_known_args()
-
-    log_file = os.path.join(args.output, args.log_file)
-    DLLogger.init(backends=[JSONStreamBackend(Verbosity.DEFAULT, log_file),
-                            StdOutBackend(Verbosity.VERBOSE)])
-    for k,v in vars(args).items():
-        DLLogger.log(step="PARAMETER", data={k:v})
-    DLLogger.log(step="PARAMETER", data={'model_name':'Tacotron2_PyT'})
-
-    args.segment_length = 50000
-    tacotron2 = load_and_setup_model('Tacotron2', parser, args.tacotron2,
-                                     args.fp16, args.cpu, forward_is_infer=True)
-    waveglow = load_and_setup_model('WaveGlow', parser, args.waveglow,
-                                    args.fp16, args.cpu, forward_is_infer=True,
-                                    jittable=True)
-    tacotron2.eval()
-    denoiser = Denoiser(waveglow)
-    if not args.cpu:
-        denoiser.cuda()
-
-    waveglow.make_ts_scriptable()
-    jitted_waveglow = torch.jit.script(waveglow)
-    # jitted_tacotron2 = torch.jit.script(tacotron2)
-
-    texts = []
-    try:
-        f = open(args.input, 'r')
-        texts = f.readlines()
-    except:
-        print("Could not read file")
-        sys.exit(1)
-
-    with open('config.json') as f:
-        audio_config = json.load(f)
-    
-    loader = MelLoader(text_cleaners=['english_cleaners'], 
-                       max_wav_value=audio_config['audio']['max-wav-value'], 
-                       sampling_rate=audio_config['audio']['sampling-rate'], 
-                       filter_length=audio_config['audio']['filter-length'], 
-                       hop_length=audio_config['audio']['hop-length'], 
-                       win_length=audio_config['audio']['win-length'], 
-                       n_mel_channels=80, 
-                       mel_fmin=audio_config['audio']['mel-fmin'], 
-                       mel_fmax=audio_config['audio']['mel-fmax'],
-                       segment_length=args.segment_length)
-    # ref_mel = loader.get_mel(args.ref_path)
-    # ref_mel = ref_mel.unsqueeze(0)
-
-    # load emotion mels
-    for emo, path in tag2ref.items():
-        emo_mel, emo_audio_segment = loader.get_mel_audio(path)
-        emo_mel = emo_mel.unsqueeze(0)
-
-        if not args.cpu:
-            emo_mel = emo_mel.to('cuda')
-            emo_audio_segment = emo_audio_segment.to('cuda')
-
-        tag2ref[emo] = {'mel': emo_mel, 'audio': emo_audio_segment}
-
-    # if not args.cpu:
-    #     ref_mel = ref_mel.to('cuda')
-
-
-    # if args.include_warmup:
-    #     sequence = torch.randint(low=0, high=148, size=(1,50)).long()
-    #     input_lengths = torch.IntTensor([sequence.size(1)]).long()
-    #     if not args.cpu:
-    #         sequence = sequence.cuda()
-    #         input_lengths = input_lengths.cuda()
-    #     for i in range(3):
-    #         with torch.no_grad():
-    #             mel, mel_lengths, _ = tacotron2(sequence, input_lengths)
-    #             _ = jitted_waveglow(mel)
-
-    measurements = {}
-
-    sequences_padded, input_lengths, emotions = prepare_input_sequence(texts, args.cpu)
-
-    for emo, positions in emotions.items():
-        emotions[emo] = {'pos': positions, 'mel': tag2ref[emo]['mel'], 'audio': tag2ref[emo]['audio']}
-
-    if '<Neutral>' not in emotions:
-        emotions['<Neutral>'] = {'pos': [], 'mel': tag2ref['<Neutral>']['mel'], 'audio': tag2ref['<Neutral>']['audio']}
-
-    with torch.no_grad(), MeasureTime(measurements, "tacotron2_time", args.cpu):
-        mel, mel_lengths, alignments = tacotron2(sequences_padded, input_lengths, emotions)
-
-    with torch.no_grad(), MeasureTime(measurements, "waveglow_time", args.cpu):
-        audios = jitted_waveglow(mel, sigma=args.sigma_infer)
-        audios = audios.float()
-    with torch.no_grad(), MeasureTime(measurements, "denoiser_time", args.cpu):
-        audios = denoiser(audios, strength=args.denoising_strength).squeeze(1)
-
-    print("Stopping after",mel.size(2),"decoder steps")
-    tacotron2_infer_perf = mel.size(0)*mel.size(2)/measurements['tacotron2_time']
-    waveglow_infer_perf = audios.size(0)*audios.size(1)/measurements['waveglow_time']
-
-    DLLogger.log(step=0, data={"tacotron2_items_per_sec": tacotron2_infer_perf})
-    DLLogger.log(step=0, data={"tacotron2_latency": measurements['tacotron2_time']})
-    DLLogger.log(step=0, data={"waveglow_items_per_sec": waveglow_infer_perf})
-    DLLogger.log(step=0, data={"waveglow_latency": measurements['waveglow_time']})
-    DLLogger.log(step=0, data={"denoiser_latency": measurements['denoiser_time']})
-    DLLogger.log(step=0, data={"latency": (measurements['tacotron2_time']+measurements['waveglow_time']+measurements['denoiser_time'])})
-
-    for i, audio in enumerate(audios):
-
-        plt.imshow(alignments[i].float().data.cpu().numpy().T, aspect="auto", origin="lower")
-        figure_path = os.path.join(args.output,"alignment_"+str(i)+args.suffix+".png")
-        plt.savefig(figure_path)
-
-        audio = audio[:mel_lengths[i]*args.stft_hop_length]
-        audio = audio/torch.max(torch.abs(audio))
-        audio_path = os.path.join(args.output,"audio_"+str(i)+args.suffix+".wav")
-        write(audio_path, args.sampling_rate, audio.cpu().numpy())
-
-    DLLogger.flush()
-
-
 if __name__ == '__main__':
-    main_gst_()
+    main_gst_by_one()

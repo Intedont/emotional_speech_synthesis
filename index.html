@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Нейросетевые модели синтеза речи с контролируемой выразительностью эмоций</title>
+  <!-- Tailwind CSS CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    audio {
+      width: 100%;
+      height: 40px;
+      border-radius: 5px;
+    }
+    
+    @media (max-width: 640px) {
+      audio {
+        height: 30px;
+      }
+    }
+    
+    audio::-webkit-media-controls-panel {
+      background-color: #f3f4f6;
+    }
+    
+    .audio-container {
+      max-width: 100%;
+      overflow: hidden;
+      margin: 0 auto;
+      width: 100%;
+    }
+    
+    @media (min-width: 768px) {
+      .audio-container {
+        width: 100%;
+      }
+    }
+    
+    @media (min-width: 1024px) {
+      .audio-container {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+
+<body class="bg-gray-100 text-gray-800">
+
+  <div class="container mx-auto p-6 space-y-8">
+
+
+    <!-- Header -->
+    <header class="text-center">
+      <h1 class="text-4xl font-bold mb-2">Нейросетевые модели синтеза речи с контролируемой выразительностью эмоций</h1>
+    </header>
+
+    <!-- Model Configurations -->
+    <section class="bg-white shadow rounded-lg p-6">
+      <h2 class="text-2xl font-semibold mb-4">Конфигурации моделей</h2>
+      <div class="overflow-x-auto">
+        <table class="min-w-full bg-white">
+          <thead>
+            <tr class="bg-gray-50">
+              <th class="px-4 py-3 text-left text-sm font-medium text-gray-700 uppercase tracking-wider">Модель</th>
+              <th class="px-4 py-3 text-left text-sm font-medium text-gray-700 uppercase tracking-wider">Архитектура</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-gray-200">
+            <tr>
+              <td class="px-4 py-4 whitespace-nowrap font-medium">Tacotron 2 + GST</td>
+              <td class="px-4 py-4 whitespace-nowrap">RNN</td>
+            </tr>
+            <tr>
+              <td class="px-4 py-4 whitespace-nowrap font-medium">X-TTS (coqui/XTTS-v2)</td>
+              <td class="px-4 py-4 whitespace-nowrap">Transformer</td>
+            </tr>
+            <tr>
+              <td class="px-4 py-4 whitespace-nowrap font-medium">FishSpeech</td>
+              <td class="px-4 py-4 whitespace-nowrap">Dual Autoregressive (Dual-AR)</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+<!-- Model Overview -->
+
+    <!-- Примеры  часть 0 -->
+    <section class="bg-white shadow rounded-lg p-6">
+      <h2 class="text-2xl font-semibold mb-4">Примеры эмоционального синтеза</h2>
+      
+      <!-- Мужские голоса -->
+      <div class="mb-6">
+         <!-- Sample 1 - Male Voice -->
+        <p>The elephant and the carpenter is the longest.</p>
+        <div class="space-y-8">
+          <div>              
+            <div class="table-responsive pt-3">
+              <table class="table table-hover pt-2">
+              <thead>
+              <tr>
+              <th style="text-align: center">Модель</th>
+              <th style="text-align: center">Neutral</th>
+              <th style="text-align: center">Angry</th>
+              <th style="text-align: center">Happy</th>
+              <th style="text-align: center">Sad</th>
+              <th style="text-align: center">Surprised</th>
+              </tr>
+              </thead>
+              <tbody>
+                <tr><td style="text-align: center;vertical-align:middle;width: 200px">Tacotron 2</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/Tacotron/audio_15.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/Tacotron/audio_16.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/Tacotron/audio_17.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/Tacotron/audio_18.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/Tacotron/audio_19.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr><td style="text-align: center;vertical-align:middle;width: 200px">StyleTTS 2</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/StyleTTS2/5_103_0.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/StyleTTS2/5_103_1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/StyleTTS2/5_103_2.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/StyleTTS2/5_103_3.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/StyleTTS2/5_103_4.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr><td style="text-align: center;vertical-align:middle;width: 200px">XTTSv2</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/XTTSv2/5_103_0.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/XTTSv2/5_103_1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/XTTSv2/5_103_2.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/XTTSv2/5_103_3.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/XTTSv2/5_103_4.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+              <tr><td style="text-align: center;vertical-align:middle;width: 200px">Orpheus</td>
+              <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/orpheus/5_103_0.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+              <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/orpheus/5_103_1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+              <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/orpheus/5_103_2.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+              <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/orpheus/5_103_3.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+              <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/orpheus/5_103_4.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+              </tr>
+              
+              </tbody>
+              </table>
+            </div>
+            
+          </div>
+          
+        </div>
+
+        <p>I guess it's a choice feast.</p>
+        <div class="space-y-8">
+          <div>              
+            <div class="table-responsive pt-3">
+              <table class="table table-hover pt-2">
+              <thead>
+              <tr>
+              <th style="text-align: center">Модель</th>
+              <th style="text-align: center">Neutral</th>
+              <th style="text-align: center">Angry</th>
+              <th style="text-align: center">Happy</th>
+              <th style="text-align: center">Sad</th>
+              <th style="text-align: center">Surprised</th>
+              </tr>
+              </thead>
+              <tbody>
+                <tr><td style="text-align: center;vertical-align:middle;width: 200px">Tacotron 2</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/Tacotron/audio_30.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/Tacotron/audio_31.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/Tacotron/audio_32.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/Tacotron/audio_33.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/Tacotron/audio_34.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr><td style="text-align: center;vertical-align:middle;width: 200px">StyleTTS 2</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/StyleTTS2/5_106_0.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/StyleTTS2/5_106_1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/StyleTTS2/5_106_2.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/StyleTTS2/5_106_3.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/StyleTTS2/5_106_4.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr><td style="text-align: center;vertical-align:middle;width: 200px">XTTSv2</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/XTTSv2/5_106_0.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/XTTSv2/5_106_1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/XTTSv2/5_106_2.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/XTTSv2/5_106_3.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/XTTSv2/5_106_4.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+              <tr><td style="text-align: center;vertical-align:middle;width: 200px">Orpheus</td>
+              <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/orpheus/5_106_0.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+              <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/orpheus/5_106_1.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+              <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/orpheus/5_106_2.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+              <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/orpheus/5_106_3.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+              <td style="text-align: center"><audio controls="controls" style="width: 200px;"><source src="resources/orpheus/5_106_4.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+              </tr>
+              
+              </tbody>
+              </table>
+            </div>
+            
+          </div>
+          
+        </div>
+
+    </section>
+
+
+    <section class="bg-white shadow rounded-lg p-6">
+      <h2 class="text-2xl font-semibold mb-4">Примеры интерполяции эмоций моделью Tacotron</h2>
+      
+      <!-- Мужские голоса -->
+      <div class="mb-6">
+         <!-- Sample 1 - Male Voice -->
+        <p>Переход из angry в happy</p>
+        <div class="space-y-8">
+          <div>              
+            <div class="table-responsive pt-3">
+              <table class="table table-hover pt-2">
+              <thead>
+              <tr>
+              <th style="text-align: center">delta</th>
+              <th style="text-align: center">audio</th>
+              </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.0</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_happy/audio_0.0.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.2</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_happy/audio_0.2.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.3</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_happy/audio_0.3.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.5</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_happy/audio_0.5.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">1.0</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_happy/audio_1.0.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+              </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+
+        <p>Переход из angry в neutral</p>
+        <div class="space-y-8">
+          <div>              
+            <div class="table-responsive pt-3">
+              <table class="table table-hover pt-2">
+              <thead>
+              <tr>
+              <th style="text-align: center">delta</th>
+              <th style="text-align: center">audio</th>
+              </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.2</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_neutral/audio_0.2.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.3</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_neutral/audio_0.3.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.6</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_neutral/audio_0.6.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.7</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_neutral/audio_0.7.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.8</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_neutral/audio_0.8.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.9</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_neutral/audio_0.9.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">1.0</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_neutral/audio_1.0.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+              </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <p>Переход из angry в sad</p>
+        <div class="space-y-8">
+          <div>              
+            <div class="table-responsive pt-3">
+              <table class="table table-hover pt-2">
+              <thead>
+              <tr>
+              <th style="text-align: center">delta</th>
+              <th style="text-align: center">audio</th>
+              </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.0</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_sad/audio_0.0.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.3</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_sad/audio_0.3.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.33</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_sad/audio_0.33.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.34</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_sad/audio_0.34.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.35</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_sad/audio_0.35.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.36</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_sad/audio_0.36.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">1.0</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/angry_to_sad/audio_1.0.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+              </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+        
+        <p>Переход из sad в happy</p>
+        <div class="space-y-8">
+          <div>              
+            <div class="table-responsive pt-3">
+              <table class="table table-hover pt-2">
+              <thead>
+              <tr>
+              <th style="text-align: center">delta</th>
+              <th style="text-align: center">audio</th>
+              </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.0</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/sad_to_happy/audio_0.0.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.3</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/sad_to_happy/audio_0.3.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.5</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/sad_to_happy/audio_0.5.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.7</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/sad_to_happy/audio_0.7.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">0.9</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/sad_to_happy/audio_0.9.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 200px">1.0</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/sad_to_happy/audio_1.0.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+              </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+    </section>
+
+
+    <section class="bg-white shadow rounded-lg p-6">
+      <h2 class="text-2xl font-semibold mb-4">Примеры смены эмоций по ходу текста для модели Orpheus</h2>
+      
+      <!-- Мужские голоса -->
+      <div class="mb-6">
+         <!-- Sample 1 - Male Voice -->
+        <div class="space-y-8">
+          <div>              
+            <div class="table-responsive pt-3">
+              <table class="table table-hover pt-2">
+              <thead>
+              <tr>
+              <th style="text-align: center">Текст</th>
+              <th style="text-align: center">Аудио</th>
+              </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 700px">&ltAngry&gt Mister lawson saw george last night. &ltHappy&gt And this is great, let's add some words to make sentence longer!"</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/orpheus/change_1_angry_to_happy.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 700px">&ltSad&gt Mister lawson saw george last night. &ltSurprised&gt And this is great, let's add some words to make sentence longer!</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/orpheus/change_1_sad_to_surprised.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;vertical-align:middle;width: 700px">&ltHappy&gt I finally got into the university of my dreams! &ltAngry&gt I can't believe all this hard work actually paid off! &ltSad&gt The sad part is that i skip my summer holidays</td>
+                  <td style="text-align: center"><audio controls="controls" style="width: 400px;"><source src="resources/orpheus/change_2_happy_angry_sad.wav" autoplay="">Your browser does not support the audio element.</audio></td>
+                </tr>
+              </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+    </section>
+
+ <!-- Footer -->
+    <footer class="text-center text-gray-600 text-sm">
+      &copy; 2025 For research purposes only.
+    </footer>
+
+  </div>
+
+</body>
+
+</html>

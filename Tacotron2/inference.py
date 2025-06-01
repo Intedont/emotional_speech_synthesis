@@ -50,21 +50,13 @@ from dllogger import StdOutBackend, JSONStreamBackend, Verbosity
 
 from waveglow.denoiser import Denoiser
 
-# ok for output_old/checkpoint_Tacotron2_6970.pt
-# tag2ref = {
-#     "<ANGRY>": '/home/madusov/vkr/data/ssw_esd_22050/5_38_1.wav',
-#     "<SAD>": '/home/madusov/vkr/data/ssw_esd_22050/5_50_3.wav',
-#     "<NEUTRAL>": '/home/madusov/vkr/data/ssw_esd_22050/5_50_0.wav',
-#     "<HAPPY>": '/home/madusov/vkr/data/ssw_esd_22050/5_50_2.wav',
-#     "<SURPRISED>": "/home/madusov/vkr/data/ssw_esd_22050/5_50_4.wav"
-# }
 
 tag2ref = {
-    "<Angry>": '/home/madusov/vkr/data/ssw_esd_22050/5_38_1.wav',
-    "<Sad>": '/home/madusov/vkr/data/ssw_esd_22050/5_38_3.wav',
-    "<Neutral>": '/home/madusov/vkr/data/ssw_esd_22050/5_50_0.wav',
-    "<Happy>": '/home/madusov/vkr/data/ssw_esd_22050/5_38_2.wav',
-    "<Surprised>": "/home/madusov/vkr/data/ssw_esd_22050/5_50_4.wav"
+    "<Angry>": 'reference_samples/5_38_1.wav',
+    "<Sad>": 'reference_samples/5_38_3.wav',
+    "<Neutral>": 'reference_samples/5_50_0.wav',
+    "<Happy>": 'reference_samples/5_38_2.wav',
+    "<Surprised>": "reference_samples/5_50_4.wav"
 }
 
 def parse_args(parser):
